@@ -25,6 +25,7 @@
 | 387 | First Unique Character in a String | Easy | [Python, Java, C#](https://leetcode.com/problems/first-unique-character-in-a-string/solutions/7194414/optimal-solution-using-hashmap-in-python-m68a/) |
 | 557 | Reverse Words in a String III | Easy | [Python, Java](https://leetcode.com/problems/reverse-words-in-a-string-iii/solutions/7176820/two-pointers-solution-by-atamalu123-kx4q/) |
 | 560 | Subarray Sum Equals K | Medium | [Java](https://leetcode.com/problems/subarray-sum-equals-k/solutions/7190324/space-optimal-solution-in-java-by-atamal-bonu/) |
+| 709 | To Lower Case | Easy | [Python, Java, C#](https://leetcode.com/problems/to-lower-case/solutions/7196797/is-this-the-easiest-leetcode-problem-by-0p427/) |
 | 760 | Find Anagram Mappings | Easy | [Python](https://leetcode.com/problems/find-anagram-mappings/solutions/7183817/simple-hashmap-usage-in-python-by-atamal-nexg/) |
 | 804 | Unique Morse Code Words | Easy | [Python](https://leetcode.com/problems/unique-morse-code-words/solutions/7180084/0ms-beats-100-by-atamalu123-k8cv/) |
 | 832 | Flipping an Image | Easy | [Python](https://leetcode.com/problems/flipping-an-image/solutions/7180881/using-helper-functions-by-atamalu123-5dc8/) |
