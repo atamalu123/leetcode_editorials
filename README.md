@@ -25,6 +25,8 @@
 | 387 | First Unique Character in a String | Easy | [Python, Java, C#](https://leetcode.com/problems/first-unique-character-in-a-string/solutions/7194414/optimal-solution-using-hashmap-in-python-m68a/) |
 | 557 | Reverse Words in a String III | Easy | [Python, Java](https://leetcode.com/problems/reverse-words-in-a-string-iii/solutions/7176820/two-pointers-solution-by-atamalu123-kx4q/) |
 | 560 | Subarray Sum Equals K | Medium | [Java](https://leetcode.com/problems/subarray-sum-equals-k/solutions/7190324/space-optimal-solution-in-java-by-atamal-bonu/) |
+| 657 | Robot Return to Origin | Easy | [Python, Java, C#](https://leetcode.com/problems/robot-return-to-origin/solutions/7197274/easy-simulation-in-python-java-c-by-atam-zqp7/) |
+| 682 | Baseball Game | Easy | [Python, Java, C#](https://leetcode.com/problems/baseball-game/solutions/7197230/using-stack-in-python-java-c-beats-100-0-fmez/) |
 | 709 | To Lower Case | Easy | [Python, Java, C#](https://leetcode.com/problems/to-lower-case/solutions/7196797/is-this-the-easiest-leetcode-problem-by-0p427/) |
 | 760 | Find Anagram Mappings | Easy | [Python](https://leetcode.com/problems/find-anagram-mappings/solutions/7183817/simple-hashmap-usage-in-python-by-atamal-nexg/) |
 | 804 | Unique Morse Code Words | Easy | [Python](https://leetcode.com/problems/unique-morse-code-words/solutions/7180084/0ms-beats-100-by-atamalu123-k8cv/) |
@@ -34,12 +36,15 @@
 | 1165 | Single-Row Keyboard | Easy | [Python](https://leetcode.com/problems/single-row-keyboard/solutions/7177268/use-dictionary-for-lookup-by-atamalu123-d39w/) |
 | 1207 | Unique Number of Occurrences | Easy | [Python](https://leetcode.com/problems/unique-number-of-occurrences/solutions/7183963/hashmap-and-hashset-beats-100-0ms-by-ata-wwqz/) | 
 | 1213 | Intersection of Three Sorted Arrays | Easy | [Python](https://leetcode.com/problems/intersection-of-three-sorted-arrays/solutions/7183921/using-hashmap-by-atamalu123-7f6w/) |
+| 1281 | Subtract the Product and Sum of Digits of an Integer | Easy | [Python, Java, C#](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/solutions/7197000/extracting-digits-in-python-java-c-beats-1a0w/) |
 | 1331 | Rank Transform of an Array | Easy | [Python](https://leetcode.com/problems/rank-transform-of-an-array/solutions/7183759/sorting-and-hashmap-python-solution-by-a-9gbo/) |
 | 1431 | Kids With the Greatest Number of Candies | Easy | [Python](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/solutions/7180602/0ms-beats-100-by-atamalu123-fbwb/) |
 | 1528 | Shuffle String | Easy | [Python](https://leetcode.com/problems/shuffle-string/solutions/7177713/0ms-beats-100-by-atamalu123-d00e/) |
+| 1550 | Three Consecutive Odds | Easy | [Python, Java, C#](https://leetcode.com/problems/three-consecutive-odds/solutions/7197091/optimal-solution-without-repeated-checks-vu12/) |
 | 1614 | Maximum Nesting Depth of the Parentheses | Easy | [Python](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/solutions/7177747/using-a-running-maximum-by-atamalu123-pmbw/) |
 | 1636 | Sort Array by Increasing Frequency | Easy | [Python](https://leetcode.com/problems/sort-array-by-increasing-frequency/solutions/7183851/0ms-beats-100-by-atamalu123-vwd0/) |
 | 1662 | Check If Two String Arrays are Equivalent | Easy | [Python](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/solutions/7177597/2-solutions-1-liner-o1-space-by-atamalu1-5yia/) |
+| 1672 | Richest Customer Wealth | Easy | [Python, Java, C#](https://leetcode.com/problems/richest-customer-wealth/solutions/7197048/simple-easy-optimal-solution-in-python-j-1tn8/) |
 | 1678 | Goal Parser Interpretation | Easy | [Python, Java](https://leetcode.com/problems/goal-parser-interpretation/solutions/7177105/one-pointer-solution-by-atamalu123-4a88/) |
 | 1684 | Count the Number of Consistent Strings | Easy | [Python, Java](https://leetcode.com/problems/count-the-number-of-consistent-strings/solutions/7177034/using-hashset-by-atamalu123-gtqc/) |
 | 1704 | Determine if String Halves Are Alike | Easy | [Python](https://leetcode.com/problems/determine-if-string-halves-are-alike/solutions/7180387/simplest-python-solution-0ms-beats-100-b-cd61/) |
@@ -47,6 +52,7 @@
 | 1768 | Merge Strings Alternately | Easy | [Python](https://leetcode.com/problems/merge-strings-alternately/solutions/7180164/most-intuitive-two-pointers-solution-by-3t9wm/) |
 | 1773 | Count Items Matching a Rule | Easy | [Python](https://leetcode.com/problems/count-items-matching-a-rule/solutions/7180681/nested-ifs-in-python-by-atamalu123-gkax/) |
 | 1816 | Truncate Sentence | Easy | [Python](https://leetcode.com/problems/truncate-sentence/solutions/7177544/0ms-beats-100-by-atamalu123-f42k/) |
+| 1822 | Sign of the Product of an Array | Easy | [Python, Java, C#](https://leetcode.com/problems/sign-of-the-product-of-an-array/solutions/7197138/optimal-solution-in-python-java-c-beats-uxr27/) |
 | 1832 | Check if the Sentence is Pangram | Easy | [Python](https://leetcode.com/problems/check-if-the-sentence-is-pangram/solutions/7179993/using-counting-by-atamalu123-o7tt/) |
 | 1876 | Substrings of Size Three with Distinct Characters | Easy | [Python](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/solutions/7184156/worlds-easiest-sliding-window-problem-be-lv1k/) |
 | 1941 | Check if All Characters Have Equal Number of Occurrences | Easy | [Python](https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/solutions/7180370/count-array-0ms-beats-100-by-atamalu123-c5gg/) |
@@ -70,16 +76,20 @@
 | 2535 | Difference Between Element Sum and Digit Sum of an Array | Easy | [Python, Java, C#](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/description/) |
 | 2710 | Remove Trailing Zeroes From a String | Easy | [Python](https://leetcode.com/problems/remove-trailing-zeros-from-a-string/solutions/7180372/simple-intuitive-python-solution-by-atam-6hk4/) |
 | 2744 | Find Maximum Number of String Pairs | Easy | [Python](https://leetcode.com/problems/find-maximum-number-of-string-pairs/solutions/7180278/0ms-beats-100-using-set-by-atamalu123-t3jn/) |
+| 2769 | Find the Maximum Achievable Number | Easy | [Python, Java, C#](https://leetcode.com/problems/find-the-maximum-achievable-number/solutions/7196924/1-liner-o1-time-by-atamalu123-mm5g/) |
 | 2778 | Sum of Squares of Special Elements | Easy | [Python](https://leetcode.com/problems/sum-of-squares-of-special-elements/solutions/7180969/on-time-o1-space-python-beats-100-by-ata-rma8/) |
 | 2785 | Sort Vowels in a String | Medium | [Python](https://leetcode.com/problems/sort-vowels-in-a-string/solutions/7180334/intuitive-on-solution-using-python-by-at-4wp5/) |
 | 2798 | Number of Employees Who Met the Target | Easy | [Python, Java, C#](https://leetcode.com/problems/number-of-employees-who-met-the-target/solutions/7194435/easiest-problem-on-leetcode-by-atamalu12-3gv2/) |
 | 2810 | Faulty Keyboard | Easy | [Python](https://leetcode.com/problems/faulty-keyboard/solutions/7180357/construct-string-as-you-go-0ms-beats-100-qpfh/) |
 | 2828 | Check if a String Is an Acronym of Words | Easy | [Python](https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words/solutions/7180122/0ms-beats-100-2-approaches-by-atamalu123-es6z/) |
+| 2942 | Find Words Containing Character | Easy | [Python, Java, C#](https://leetcode.com/problems/find-words-containing-character/solutions/7196900/easy-simple-solution-in-python-java-c-be-ucof/) |
 | 2956 | Find Common Elements Between Two Arrays | Easy | [Python](https://leetcode.com/problems/find-common-elements-between-two-arrays/solutions/7180759/using-hash-sets-in-python-by-atamalu123-vehu/) |
 | 2974 | Minimum Number Game | Easy | [Python, Java, C#](https://leetcode.com/problems/minimum-number-game/solutions/7194429/simple-simulation-in-python-java-c-by-at-waz3/) |
 | 3005 | Count Elements With Maximum Frequency | Easy | [Python](https://leetcode.com/problems/count-elements-with-maximum-frequency/description/) |
+| 3019 | Number of Changing Keys | Easy | [Python, Java, C#](https://leetcode.com/problems/number-of-changing-keys/solutions/7196856/one-pass-optimal-solution-in-python-java-svk7/) |
 | 3146 | 6. Permutation Difference between Two Strings | Easy | [Python](https://leetcode.com/problems/permutation-difference-between-two-strings/solutions/7177311/easy-solution-by-atamalu123-bkm5/) |
 | 3168 | Minimum Number of Chairs in a Waiting Room | Easy | [Python](https://leetcode.com/problems/minimum-number-of-chairs-in-a-waiting-room/solutions/7180377/simple-intuitive-python-solution-by-atam-wgqj/) |
+| 3232 | Find if Digit Game Can Be Won | Easy | [Python, Java, C#](https://leetcode.com/problems/find-if-digit-game-can-be-won/solutions/7197310/count-single-and-double-digits-beats-100-tpgi/) |
 | 3248 | Snake in Matrix | Easy | [Python](https://leetcode.com/problems/snake-in-matrix/solutions/7180257/0ms-beats-100-by-atamalu123-5nd4/) |
 | 3289 | The Two Sneaky Numbers of Digitville | Easy | [Python](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/solutions/7180593/counting-array-0ms-beats-100-by-atamalu1-enpj/) |
 | 3300 | Minimum Element After Replacement With Digit Sum | Easy | [Python](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/solutions/7180742/no-extra-space-beats-100-by-atamalu123-tqw1/) |
