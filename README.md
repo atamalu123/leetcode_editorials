@@ -23,6 +23,11 @@
 | 283 | Move Zeroes | Easy | [Python, Java, C#](https://leetcode.com/problems/move-zeroes/solutions/7194401/simple-intuitive-optimal-solution-in-pyt-bcwk/) |
 | 344 | Reverse String | Easy | [Python, Java, C#](https://leetcode.com/problems/reverse-string/solutions/7194406/easy-optimal-solution-in-python-java-c-b-iinr/) |
 | 387 | First Unique Character in a String | Easy | [Python, Java, C#](https://leetcode.com/problems/first-unique-character-in-a-string/solutions/7194414/optimal-solution-using-hashmap-in-python-m68a/) |
+| 412 | Fizz Buzz | Easy | [Python, Java, C#](https://leetcode.com/problems/fizz-buzz/solutions/7197395/no-need-to-overcomplicate-just-simulate-lmy6m/) |
+| 448 | Find All Numbers Disappeared in an Array | Easy | [Python, Java, C#](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/solutions/7197465/using-hashset-in-python-java-c-by-atamal-s4wc/) |
+| 485 | Max Consecutive Ones | Easy | [Python, Java, C#](https://leetcode.com/problems/max-consecutive-ones/solutions/7197500/optimal-solution-in-python-java-c-by-ata-4aru/) |
+| 500 | Keyboard Row | Easy | [Python](https://leetcode.com/problems/keyboard-row/solutions/7197515/hashmap-beats-100-0ms-by-atamalu123-y3wy/) |
+| 551 | Student Attendence Record I | Easy | [Python, Java, C#](https://leetcode.com/problems/student-attendance-record-i/solutions/7197549/optimal-approach-python-java-c-beats-100-0ms/) |
 | 557 | Reverse Words in a String III | Easy | [Python, Java](https://leetcode.com/problems/reverse-words-in-a-string-iii/solutions/7176820/two-pointers-solution-by-atamalu123-kx4q/) |
 | 560 | Subarray Sum Equals K | Medium | [Java](https://leetcode.com/problems/subarray-sum-equals-k/solutions/7190324/space-optimal-solution-in-java-by-atamal-bonu/) |
 | 657 | Robot Return to Origin | Easy | [Python, Java, C#](https://leetcode.com/problems/robot-return-to-origin/solutions/7197274/easy-simulation-in-python-java-c-by-atam-zqp7/) |
