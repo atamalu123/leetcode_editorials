@@ -1,4 +1,4 @@
-# 2535. [Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/description/)
+# [2535. Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/description/)
 
 * [Python Soluton](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/solutions/7194440/optimal-solution-in-python-java-c-by-ata-zrky/)
 * [Java Solution](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/solutions/7194440/optimal-solution-in-python-java-c-by-ata-zrky/)
