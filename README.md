@@ -46,6 +46,7 @@
 | 1119 | Remove Vowels from a String | Easy | [Python, Java, C#](https://leetcode.com/problems/remove-vowels-from-a-string/solutions/7197873/easy-solution-in-python-java-c-by-atamal-73mj/) |
 | 1122 | Relative Sort Array | Easy | [Python](https://leetcode.com/problems/relative-sort-array/solutions/7184261/hashmap-and-hashset-in-python-beats-100-km4ad/) |
 | 1133 | Largest Unique Number | Easy | [Python, Java, C#](https://leetcode.com/problems/largest-unique-number/solutions/7197907/using-hashmap-and-counting-in-python-jav-lfaz/) |
+| 1160 | Find Words That Can Be Formed by Characters | Easy | [Python](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/solutions/7197955/using-counting-dictionaries-in-python-ja-ctra/) |
 | 1165 | Single-Row Keyboard | Easy | [Python](https://leetcode.com/problems/single-row-keyboard/solutions/7177268/use-dictionary-for-lookup-by-atamalu123-d39w/) |
 | 1207 | Unique Number of Occurrences | Easy | [Python](https://leetcode.com/problems/unique-number-of-occurrences/solutions/7183963/hashmap-and-hashset-beats-100-0ms-by-ata-wwqz/) | 
 | 1213 | Intersection of Three Sorted Arrays | Easy | [Python](https://leetcode.com/problems/intersection-of-three-sorted-arrays/solutions/7183921/using-hashmap-by-atamalu123-7f6w/) |
