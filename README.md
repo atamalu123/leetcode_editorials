@@ -34,10 +34,18 @@
 | 682 | Baseball Game | Easy | [Python, Java, C#](https://leetcode.com/problems/baseball-game/solutions/7197230/using-stack-in-python-java-c-beats-100-0-fmez/) |
 | 709 | To Lower Case | Easy | [Python, Java, C#](https://leetcode.com/problems/to-lower-case/solutions/7196797/is-this-the-easiest-leetcode-problem-by-0p427/) |
 | 760 | Find Anagram Mappings | Easy | [Python](https://leetcode.com/problems/find-anagram-mappings/solutions/7183817/simple-hashmap-usage-in-python-by-atamal-nexg/) |
+| 771 | Jewels and Stones | Easy | [Python, Java, C#](https://leetcode.com/problems/jewels-and-stones/solutions/7197629/using-hashset-in-python-java-c-beats-100-41cz/) |
 | 804 | Unique Morse Code Words | Easy | [Python](https://leetcode.com/problems/unique-morse-code-words/solutions/7180084/0ms-beats-100-by-atamalu123-k8cv/) |
 | 832 | Flipping an Image | Easy | [Python](https://leetcode.com/problems/flipping-an-image/solutions/7180881/using-helper-functions-by-atamalu123-5dc8/) |
+| 876 | Middle of the Linked List | Easy | [Python, Java, C#](https://leetcode.com/problems/middle-of-the-linked-list/solutions/7197687/2-solutions-optimal-beats-100-by-atamalu-ddpu/) |
+| 905 | Sort Array By Parity | Easy | [Python, Java, C#](https://leetcode.com/problems/sort-array-by-parity/solutions/7197712/simple-solution-beats-100-0ms-by-atamalu-a4aq/) |
 | 961 | N-Repeated Element in Size 2N Array | Easy | [Python](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/solutions/7184026/most-intuitive-way-using-a-counter-by-at-ks1t/) | 
+| 1085 | Sum of Digits in the Minimum Number | Easy | [Python, Java, C#](https://leetcode.com/problems/sum-of-digits-in-the-minimum-number/solutions/7197787/optimal-solution-beats-100-0ms-by-atamal-xjco/) |
+| 1086 | High Five | Easy | [Python](https://leetcode.com/problems/high-five/solutions/7197834/hashmap-heap-optimal-solution-in-python-be0bl/) |
+| 1108 | Defanging an IP Address | Easy | [Python, Java, C#](https://leetcode.com/problems/defanging-an-ip-address/solutions/7197846/simple-solution-in-python-java-c-by-atam-onzw/) |
+| 1119 | Remove Vowels from a String | Easy | [Python, Java, C#](https://leetcode.com/problems/remove-vowels-from-a-string/solutions/7197873/easy-solution-in-python-java-c-by-atamal-73mj/) |
 | 1122 | Relative Sort Array | Easy | [Python](https://leetcode.com/problems/relative-sort-array/solutions/7184261/hashmap-and-hashset-in-python-beats-100-km4ad/) |
+| 1133 | Largest Unique Number | Easy | [Python, Java, C#](https://leetcode.com/problems/largest-unique-number/solutions/7197907/using-hashmap-and-counting-in-python-jav-lfaz/) |
 | 1165 | Single-Row Keyboard | Easy | [Python](https://leetcode.com/problems/single-row-keyboard/solutions/7177268/use-dictionary-for-lookup-by-atamalu123-d39w/) |
 | 1207 | Unique Number of Occurrences | Easy | [Python](https://leetcode.com/problems/unique-number-of-occurrences/solutions/7183963/hashmap-and-hashset-beats-100-0ms-by-ata-wwqz/) | 
 | 1213 | Intersection of Three Sorted Arrays | Easy | [Python](https://leetcode.com/problems/intersection-of-three-sorted-arrays/solutions/7183921/using-hashmap-by-atamalu123-7f6w/) |
