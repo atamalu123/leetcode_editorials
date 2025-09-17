@@ -101,7 +101,7 @@
 | 2974 | Minimum Number Game | Easy | [Python, Java, C#](https://leetcode.com/problems/minimum-number-game/solutions/7194429/simple-simulation-in-python-java-c-by-at-waz3/) |
 | 3005 | Count Elements With Maximum Frequency | Easy | [Python](https://leetcode.com/problems/count-elements-with-maximum-frequency/description/) |
 | 3019 | Number of Changing Keys | Easy | [Python, Java, C#](https://leetcode.com/problems/number-of-changing-keys/solutions/7196856/one-pass-optimal-solution-in-python-java-svk7/) |
-| 3146 | 6. Permutation Difference between Two Strings | Easy | [Python](https://leetcode.com/problems/permutation-difference-between-two-strings/solutions/7177311/easy-solution-by-atamalu123-bkm5/) |
+| 3146 | Permutation Difference between Two Strings | Easy | [Python](https://leetcode.com/problems/permutation-difference-between-two-strings/solutions/7177311/easy-solution-by-atamalu123-bkm5/) |
 | 3168 | Minimum Number of Chairs in a Waiting Room | Easy | [Python](https://leetcode.com/problems/minimum-number-of-chairs-in-a-waiting-room/solutions/7180377/simple-intuitive-python-solution-by-atam-wgqj/) |
 | 3232 | Find if Digit Game Can Be Won | Easy | [Python, Java, C#](https://leetcode.com/problems/find-if-digit-game-can-be-won/solutions/7197310/count-single-and-double-digits-beats-100-tpgi/) |
 | 3248 | Snake in Matrix | Easy | [Python](https://leetcode.com/problems/snake-in-matrix/solutions/7180257/0ms-beats-100-by-atamalu123-5nd4/) |
