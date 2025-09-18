@@ -40,6 +40,7 @@
 | 876 | Middle of the Linked List | Easy | [Python, Java, C#](https://leetcode.com/problems/middle-of-the-linked-list/solutions/7197687/2-solutions-optimal-beats-100-by-atamalu-ddpu/) |
 | 905 | Sort Array By Parity | Easy | [Python, Java, C#](https://leetcode.com/problems/sort-array-by-parity/solutions/7197712/simple-solution-beats-100-0ms-by-atamalu-a4aq/) |
 | 961 | N-Repeated Element in Size 2N Array | Easy | [Python](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/solutions/7184026/most-intuitive-way-using-a-counter-by-at-ks1t/) | 
+| 1002 | Find Common Characters | Easy | [Python, Java, C#](https://leetcode.com/problems/find-common-characters/solutions/7203450/using-frequency-counter-hashmaps-in-pyth-bnv7/) |
 | 1085 | Sum of Digits in the Minimum Number | Easy | [Python, Java, C#](https://leetcode.com/problems/sum-of-digits-in-the-minimum-number/solutions/7197787/optimal-solution-beats-100-0ms-by-atamal-xjco/) |
 | 1086 | High Five | Easy | [Python](https://leetcode.com/problems/high-five/solutions/7197834/hashmap-heap-optimal-solution-in-python-be0bl/) |
 | 1108 | Defanging an IP Address | Easy | [Python, Java, C#](https://leetcode.com/problems/defanging-an-ip-address/solutions/7197846/simple-solution-in-python-java-c-by-atam-onzw/) |
@@ -51,8 +52,19 @@
 | 1207 | Unique Number of Occurrences | Easy | [Python](https://leetcode.com/problems/unique-number-of-occurrences/solutions/7183963/hashmap-and-hashset-beats-100-0ms-by-ata-wwqz/) | 
 | 1213 | Intersection of Three Sorted Arrays | Easy | [Python](https://leetcode.com/problems/intersection-of-three-sorted-arrays/solutions/7183921/using-hashmap-by-atamalu123-7f6w/) |
 | 1281 | Subtract the Product and Sum of Digits of an Integer | Easy | [Python, Java, C#](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/solutions/7197000/extracting-digits-in-python-java-c-beats-1a0w/) |
+| 1295 | Find Numbers with Even Number of Digits | Easy | [Python, Java, C#](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/solutions/7203065/optimal-solution-in-python-java-c-beats-q7m6b/) |
+| 1299 | Replace Elements with Greatest Element on Right Side | Easy | [Python, Java, C#](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/solutions/7203120/optimal-solution-in-java-python-c-beats-73ete/) |
+| 1323 | Maximum 69 Number | Easy | [Python, Java, C#](https://leetcode.com/problems/maximum-69-number/solutions/7203367/without-string-conversion-beats-100-by-a-a6xq/) |
 | 1331 | Rank Transform of an Array | Easy | [Python](https://leetcode.com/problems/rank-transform-of-an-array/solutions/7183759/sorting-and-hashmap-python-solution-by-a-9gbo/) |
+| 1342 | Number of Steps to Reduce a Number to Zero | Easy | [Python, Java, C#](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/solutions/7203489/simulation-beats-100-by-atamalu123-omv6/) |
+| 1351 | Count Negative Numbers in a Sorted Matrix | Easy | [Python, Java, C#](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/solutions/7203528/python-java-c-beats-100-by-atamalu123-kamr/) |
+| 1394 | Find Lucky Integer in an Array | Easy | [Python, Java, C#](https://leetcode.com/problems/find-lucky-integer-in-an-array/solutions/7203565/using-frequency-hashmap-beats-100-by-ata-urqf/) |
+| 1426 | Counting Elements | Easy | [Python, Java, C#](https://leetcode.com/problems/counting-elements/solutions/7203593/optimal-solution-using-hashset-beats-100-oknd/) |
 | 1431 | Kids With the Greatest Number of Candies | Easy | [Python](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/solutions/7180602/0ms-beats-100-by-atamalu123-fbwb/) |
+| 1446 | Consecutive Characters | Easy | [Python, Java, C#](https://leetcode.com/problems/consecutive-characters/solutions/7203621/simple-solution-in-java-python-c-by-atam-fqrc/) |
+| 1450 | Number of Students Doing Homework at a Given Time | Easy | [Python, Java, C#](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/solutions/7203633/easiest-leetcode-problem-by-atamalu123-lbor/) |
+| 1464 | Maximum Product of Two Elements in an Array | Easy | [Python](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/solutions/7203651/maximum-product-of-two-elements-in-an-ar-xbi9/) |
+| 1470 | Shuffle the Array | Easy | [Python, Java, C#](https://leetcode.com/problems/shuffle-the-array/solutions/7203669/shuffling-in-java-python-c-beats-100-by-4x83a/) |
 | 1528 | Shuffle String | Easy | [Python](https://leetcode.com/problems/shuffle-string/solutions/7177713/0ms-beats-100-by-atamalu123-d00e/) |
 | 1550 | Three Consecutive Odds | Easy | [Python, Java, C#](https://leetcode.com/problems/three-consecutive-odds/solutions/7197091/optimal-solution-without-repeated-checks-vu12/) |
 | 1614 | Maximum Nesting Depth of the Parentheses | Easy | [Python](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/solutions/7177747/using-a-running-maximum-by-atamalu123-pmbw/) |
