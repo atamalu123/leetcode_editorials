@@ -107,14 +107,30 @@
 | 2114 | Maximum Number of Words Found in Sentences | Easy | [Python](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/solutions/7177396/simple-counting-by-atamalu123-xem5/) |
 | 2119 | A Number After a Double Reversal | Easy | [Python, Java, C#, C, C++, Javascript, TypeScript](https://leetcode.com/problems/a-number-after-a-double-reversal/solutions/7204287/1-liner-optimal-in-different-languages-b-qu9l/) |
 | 2124 | Check if All A's Appear Before All B's | Easy | [Python](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/solutions/7180556/keep-track-of-seen-0ms-beats-100-by-atam-tftm/) |
+| 2148 | Count Elements With Strictly Smaller and Greater Elements | Easy | [Python, Java, C#](https://leetcode.com/problems/count-elements-with-strictly-smaller-and-greater-elements/solutions/7204382/optimal-ono1-solution-in-python-java-c-b-9zj9/) |
+| 2176 | Count Equal and Divisible Pairs in an Array | Easy | [Python, Java, C#](https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/solutions/7206217/optimal-solution-in-python-java-c-beats-cwiel/) |
+| 2185 | Counting Words With a Given Prefix | Easy | [Python, Java, C#](https://leetcode.com/problems/counting-words-with-a-given-prefix/solutions/7206247/easy-optimal-solution-in-python-java-c-b-3iq8/) |
+| 2215 | Find the Difference of Two Arrays | Easy | [Python, Java, C#](https://leetcode.com/problems/find-the-difference-of-two-arrays/solutions/7206304/easy-optimal-solution-in-python-java-c-b-si1h/) |
+| 2235 | Add Two Integers | Easy | [Python, Java, C#, C, C++, JavaScript, TypeScript](https://leetcode.com/problems/add-two-integers/solutions/7206324/wow-best-solution/) |
+| 2239 | Find Closest Number to Zero | Easy | [Python, Java, C#](https://leetcode.com/problems/find-closest-number-to-zero/solutions/7206355/easy-optimal-solution-in-python-java-c-b-ukjq/) |
 | 2255 | Count Prefixes of a Given String | Easy | [Python](https://leetcode.com/problems/count-prefixes-of-a-given-string/solutions/7180508/using-startswith-0ms-beats-100-by-atamal-ke3x/) |
+| 2264 | Largest 3-Same-Digit Number in String | Easy | [Python, Java, C#](https://leetcode.com/problems/largest-3-same-digit-number-in-string/solutions/7206404/easy-optimal-solution-in-python-java-c-b-lff5/) |
+| 2278 | Percentage of Letter in String | Easy | [Python, Java, C#](https://leetcode.com/problems/percentage-of-letter-in-string/solutions/7206437/easy-optimal-solution-in-python-java-c-b-fnno/) |
+| 2309 | Greatest English Letter in Upper and Lower Case | Easy | [Python, Java, C#](https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case/solutions/7206469/optimal-solution-in-python-beats-100-by-1wquy/) |
+| 2351 | First Letter to Appear Twice | Easy | [Python, Java, C#](https://leetcode.com/problems/first-letter-to-appear-twice/solutions/7206496/optimal-easy-solution-in-python-java-c-b-rfdz/) |
 | 2363 | Merge Similar Items | Easy | [Python](https://leetcode.com/problems/merge-similar-items/solutions/7184097/using-dictionary-and-sorting-by-atamalu1-mh7v/) |
+| 2395 | Find Subarrays With Equal Sum | Easy | [Python, Java, C#](https://leetcode.com/problems/find-subarrays-with-equal-sum/solutions/7206525/optimal-easy-solution-in-python-java-c-b-fzpt/) |
+| 2404 | Most Frequent Even Element | Easy | [Python, Java, C#](https://leetcode.com/problems/most-frequent-even-element/solutions/7206548/optimal-solution-in-python-java-c/) |
 | 2418 | Sort the People | Easy | [Python](https://leetcode.com/problems/sort-the-people/solutions/7183809/sorting-and-hashmap-0ms-beats-100-by-ata-hbv1/) |
 | 2441 | Largest Positive Integer That Exists With Its Negative | Easy | [Python](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/solutions/7184302/on-python-using-set-by-atamalu123-8glp/) |
+| 2469 | Convert the Temperature | Easy | [Python, Java, C#, C++, JavaScript, TypeScript](https://leetcode.com/problems/convert-the-temperature/solutions/7206568/simple-math-by-atamalu123-f9z9/) |
 | 2496 | Maximum Value of a String in an Array | Easy | [Python](https://leetcode.com/problems/maximum-value-of-a-string-in-an-array/solutions/7180524/simple-no-extra-space-0ms-beats-100-by-a-iz5f/) |
 | 2553 | Separate the Digits in an Array | Easy | [Python](https://leetcode.com/problems/separate-the-digits-in-an-array/solutions/7181087/using-stack-in-python-by-atamalu123-sh8s/) |
 | 2678 | Number of Seniors Citizens | Easy | [Python](https://leetcode.com/problems/number-of-senior-citizens/solutions/7180308/simple-indexing-0ms-beats-100-by-atamalu-aywx/) |
 | 2535 | Difference Between Element Sum and Digit Sum of an Array | Easy | [Python, Java, C#](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/description/) |
+| 2586 | Count the Number of Vowel Strings in Range | Easy | [Python, Java, C#](https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range/solutions/7206626/optimal-solution-in-python-java-c-beats-pe0cc/) |
+| 2643 | Row With Maximum Ones | Easy | [Python, Java, C#](https://leetcode.com/problems/row-with-maximum-ones/solutions/7206643/optimal-easy-solution-in-python-java-c-b-ed7o/) |
+| 2651 | Calculate Delayed Arrival Time | Easy | [Python, Java, C#, C, C++, JavaScript, TypeScript](https://leetcode.com/problems/calculate-delayed-arrival-time/solutions/7206650/easy-o1o1-by-atamalu123-sygs/) |
 | 2710 | Remove Trailing Zeroes From a String | Easy | [Python](https://leetcode.com/problems/remove-trailing-zeros-from-a-string/solutions/7180372/simple-intuitive-python-solution-by-atam-6hk4/) |
 | 2744 | Find Maximum Number of String Pairs | Easy | [Python](https://leetcode.com/problems/find-maximum-number-of-string-pairs/solutions/7180278/0ms-beats-100-using-set-by-atamalu123-t3jn/) |
 | 2769 | Find the Maximum Achievable Number | Easy | [Python, Java, C#](https://leetcode.com/problems/find-the-maximum-achievable-number/solutions/7196924/1-liner-o1-time-by-atamalu123-mm5g/) |
