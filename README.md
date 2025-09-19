@@ -131,7 +131,12 @@
 | 2586 | Count the Number of Vowel Strings in Range | Easy | [Python, Java, C#](https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range/solutions/7206626/optimal-solution-in-python-java-c-beats-pe0cc/) |
 | 2643 | Row With Maximum Ones | Easy | [Python, Java, C#](https://leetcode.com/problems/row-with-maximum-ones/solutions/7206643/optimal-easy-solution-in-python-java-c-b-ed7o/) |
 | 2651 | Calculate Delayed Arrival Time | Easy | [Python, Java, C#, C, C++, JavaScript, TypeScript](https://leetcode.com/problems/calculate-delayed-arrival-time/solutions/7206650/easy-o1o1-by-atamalu123-sygs/) |
+| 2656 | Maximum Sum With Exactly K Elements | Easy | [Python, Java, C#](https://leetcode.com/problems/maximum-sum-with-exactly-k-elements/solutions/7206669/easy-optimal-solution-in-python-java-c-b-ari9/) |
+| 2678 | Number of Senior Citizens | Easy | [Python, Java, C#](https://leetcode.com/problems/number-of-senior-citizens/solutions/7206718/optimal-solution-in-python-java-c-by-ata-7ntx/) |
+| 2706 | Buy Two Chocolates | Easy | [Python, Java, C#](https://leetcode.com/problems/buy-two-chocolates/solutions/7206733/one-pass-optimal-solution-beats-100-0ms-sd5n7/) |
 | 2710 | Remove Trailing Zeroes From a String | Easy | [Python](https://leetcode.com/problems/remove-trailing-zeros-from-a-string/solutions/7180372/simple-intuitive-python-solution-by-atam-6hk4/) |
+| 2716 | Minimize String Length | Easy | [Python, Java, C#](https://leetcode.com/problems/minimize-string-length/solutions/7206737/optimal-solution-in-python-java-c-by-ata-sy9l/) |
+| 2733 | Neither Minimum nor Maximum | Easy | [Python, Java, C#](https://leetcode.com/problems/neither-minimum-nor-maximum/solutions/7206748/one-pass-on-solution-in-python-java-c-by-r5fs/) |
 | 2744 | Find Maximum Number of String Pairs | Easy | [Python](https://leetcode.com/problems/find-maximum-number-of-string-pairs/solutions/7180278/0ms-beats-100-using-set-by-atamalu123-t3jn/) |
 | 2769 | Find the Maximum Achievable Number | Easy | [Python, Java, C#](https://leetcode.com/problems/find-the-maximum-achievable-number/solutions/7196924/1-liner-o1-time-by-atamalu123-mm5g/) |
 | 2778 | Sum of Squares of Special Elements | Easy | [Python](https://leetcode.com/problems/sum-of-squares-of-special-elements/solutions/7180969/on-time-o1-space-python-beats-100-by-ata-rma8/) |
@@ -139,11 +144,25 @@
 | 2798 | Number of Employees Who Met the Target | Easy | [Python, Java, C#](https://leetcode.com/problems/number-of-employees-who-met-the-target/solutions/7194435/easiest-problem-on-leetcode-by-atamalu12-3gv2/) |
 | 2810 | Faulty Keyboard | Easy | [Python](https://leetcode.com/problems/faulty-keyboard/solutions/7180357/construct-string-as-you-go-0ms-beats-100-qpfh/) |
 | 2828 | Check if a String Is an Acronym of Words | Easy | [Python](https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words/solutions/7180122/0ms-beats-100-2-approaches-by-atamalu123-es6z/) |
+| 2877 | Create a DataFrame from List | Easy | [Python](https://leetcode.com/problems/create-a-dataframe-from-list/solutions/7206757/1-line-by-atamalu123-cavw/) |
+| 2878 | Get the Size of a DataFrame | Easy | [Python](https://leetcode.com/problems/get-the-size-of-a-dataframe/solutions/7206756/1-line-by-atamalu123-6ndx/) |
+| 2879 | Display the First Three Rows | Easy | [Python](https://leetcode.com/problems/display-the-first-three-rows/solutions/7206759/1-line-by-atamalu123-l3im/) |
+| 2880 | Select Data | Easy | [Python](https://leetcode.com/problems/select-data/solutions/7206760/1-line-by-atamalu123-9rz5/) |
+| 2881 | Create a New Column | Easy | [Python](https://leetcode.com/problems/create-a-new-column/solutions/7206761/1-line-by-atamalu123-2t8h/) |
+| 2882 | Drop Duplicate Rows | Easy | [Python](https://leetcode.com/problems/drop-duplicate-rows/solutions/7206763/1-line-by-atamalu123-glsw/) |
+| 2883 | Drop Missing Data | Easy | [Python](https://leetcode.com/problems/drop-missing-data/solutions/7206765/1-line-by-atamalu123-iyhu/) |
+| 2884 | Modify Columns | Easy | [Python](https://leetcode.com/problems/modify-columns/solutions/7206766/1-line-by-atamalu123-4qnb/) |
+| 2885 | Rename Columns | Easy | [Python](https://leetcode.com/problems/rename-columns/solutions/7206768/1-liner-by-atamalu123-5wd2/) |
+| 2886 | Change Data Type | Easy | [Python](https://leetcode.com/problems/change-data-type/solutions/7206769/1-line-by-atamalu123-zdr3/) |
+| 2887 | Fill Missing Data | Easy | [Python](https://leetcode.com/problems/fill-missing-data/solutions/7206770/1-line-by-atamalu123-uwcp/) |
+| 2888 | Reshape Data: Concatenate | Easy | [Python](https://leetcode.com/problems/reshape-data-concatenate/solutions/7206772/1-line-by-atamalu123-j116/) |
 | 2942 | Find Words Containing Character | Easy | [Python, Java, C#](https://leetcode.com/problems/find-words-containing-character/solutions/7196900/easy-simple-solution-in-python-java-c-be-ucof/) |
+| 2951 | Find the Peaks | Easy | [Python, Java, C#](https://leetcode.com/problems/find-the-peaks/solutions/7206782/easy-optimal-solution-in-python-java-c-b-gzns/) |
 | 2956 | Find Common Elements Between Two Arrays | Easy | [Python](https://leetcode.com/problems/find-common-elements-between-two-arrays/solutions/7180759/using-hash-sets-in-python-by-atamalu123-vehu/) |
 | 2974 | Minimum Number Game | Easy | [Python, Java, C#](https://leetcode.com/problems/minimum-number-game/solutions/7194429/simple-simulation-in-python-java-c-by-at-waz3/) |
 | 3005 | Count Elements With Maximum Frequency | Easy | [Python](https://leetcode.com/problems/count-elements-with-maximum-frequency/description/) |
 | 3019 | Number of Changing Keys | Easy | [Python, Java, C#](https://leetcode.com/problems/number-of-changing-keys/solutions/7196856/one-pass-optimal-solution-in-python-java-svk7/) |
+| 3046 | Split the Array | Easy | [Python, Java, C#](https://leetcode.com/problems/split-the-array/solutions/7206790/easy-optimal-solution-in-python-java-c-b-0nmw/) |
 | 3146 | Permutation Difference between Two Strings | Easy | [Python](https://leetcode.com/problems/permutation-difference-between-two-strings/solutions/7177311/easy-solution-by-atamalu123-bkm5/) |
 | 3168 | Minimum Number of Chairs in a Waiting Room | Easy | [Python](https://leetcode.com/problems/minimum-number-of-chairs-in-a-waiting-room/solutions/7180377/simple-intuitive-python-solution-by-atam-wgqj/) |
 | 3232 | Find if Digit Game Can Be Won | Easy | [Python, Java, C#](https://leetcode.com/problems/find-if-digit-game-can-be-won/solutions/7197310/count-single-and-double-digits-beats-100-tpgi/) |
