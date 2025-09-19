@@ -101,9 +101,11 @@
 | 2057 | Smallest Index With Equal Value | Easy | [Python, Java, C#](https://leetcode.com/problems/smallest-index-with-equal-value/solutions/7204011/easy-optimal-solution-beats-100-0ms-by-a-mlva/) |
 | 2068 | Check Whether Two Strings are Almost Equivalent | Easy | [Python, Java, C#](https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent/solutions/7204064/easy-solution-in-python-java-c-beats-100-j999/) |
 | 2085 | Count Common Words With One Occurrence | Easy | [Python, Java, C#](https://leetcode.com/problems/count-common-words-with-one-occurrence/solutions/7204148/easy-optimal-solution-in-python-java-c-b-q1rn/) |
+| 2089 | Find Target Indicies After Sorting | Easy | [Python, Java, C#](https://leetcode.com/problems/find-target-indices-after-sorting-array/solutions/7204206/easy-without-sorting-optimal-solution-beats-100/) |
 | 2103 | Rings and Rods | Easy | [Python](https://leetcode.com/problems/rings-and-rods/solutions/7183834/dictionary-and-hashset-in-python-0ms-bea-2no3/) | 
 | 2108 | Find First Palindromic String in the Array | Easy | [Python](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/solutions/7180029/beats-100-by-atamalu123-zoad/) |
 | 2114 | Maximum Number of Words Found in Sentences | Easy | [Python](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/solutions/7177396/simple-counting-by-atamalu123-xem5/) |
+| 2119 | A Number After a Double Reversal | Easy | [Python, Java, C#, C, C++, Javascript, TypeScript](https://leetcode.com/problems/a-number-after-a-double-reversal/solutions/7204287/1-liner-optimal-in-different-languages-b-qu9l/) |
 | 2124 | Check if All A's Appear Before All B's | Easy | [Python](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/solutions/7180556/keep-track-of-seen-0ms-beats-100-by-atam-tftm/) |
 | 2255 | Count Prefixes of a Given String | Easy | [Python](https://leetcode.com/problems/count-prefixes-of-a-given-string/solutions/7180508/using-startswith-0ms-beats-100-by-atamal-ke3x/) |
 | 2363 | Merge Similar Items | Easy | [Python](https://leetcode.com/problems/merge-similar-items/solutions/7184097/using-dictionary-and-sorting-by-atamalu1-mh7v/) |
