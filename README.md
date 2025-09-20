@@ -163,17 +163,27 @@
 | 3005 | Count Elements With Maximum Frequency | Easy | [Python](https://leetcode.com/problems/count-elements-with-maximum-frequency/description/) |
 | 3019 | Number of Changing Keys | Easy | [Python, Java, C#](https://leetcode.com/problems/number-of-changing-keys/solutions/7196856/one-pass-optimal-solution-in-python-java-svk7/) |
 | 3046 | Split the Array | Easy | [Python, Java, C#](https://leetcode.com/problems/split-the-array/solutions/7206790/easy-optimal-solution-in-python-java-c-b-0nmw/) |
+| 3099 | Harshad Number | Easy | [Python, Java, C#](https://leetcode.com/problems/harshad-number/solutions/7206795/optimal-solution-in-python-java-c-beats-dbypf/) |
+| 3105 | Longest Strictly Increasing or Strictly Decreasing Subarray | Easy | [Python, Java, C#](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/solutions/7206808/one-pass-easy-optimal-solution-beats-100-58d6/) |
+| 3110 | Score of a String | Easy | [Python, Java, C#](https://leetcode.com/problems/score-of-a-string/solutions/7206815/optimal-solution-beats-100-in-python-jav-jrdx/) |
+| 3131 | Find the Integer Added to Array I | Easy | [Python, Java, C#](https://leetcode.com/problems/find-the-integer-added-to-array-i/solutions/7206817/optimal-simple-solution-beats-100-by-ata-c6ex/) |
 | 3146 | Permutation Difference between Two Strings | Easy | [Python](https://leetcode.com/problems/permutation-difference-between-two-strings/solutions/7177311/easy-solution-by-atamalu123-bkm5/) |
+| 3151 | Special Array I | Easy | [Python, Java, C#](https://leetcode.com/problems/special-array-i/solutions/7206824/simple-optimal-solution-beats-100-in-pyt-o5b4/) |
 | 3168 | Minimum Number of Chairs in a Waiting Room | Easy | [Python](https://leetcode.com/problems/minimum-number-of-chairs-in-a-waiting-room/solutions/7180377/simple-intuitive-python-solution-by-atam-wgqj/) |
 | 3232 | Find if Digit Game Can Be Won | Easy | [Python, Java, C#](https://leetcode.com/problems/find-if-digit-game-can-be-won/solutions/7197310/count-single-and-double-digits-beats-100-tpgi/) |
 | 3248 | Snake in Matrix | Easy | [Python](https://leetcode.com/problems/snake-in-matrix/solutions/7180257/0ms-beats-100-by-atamalu123-5nd4/) |
+| 3285 | Find Indices of Stable Mountains | Easy | [Python, Java, C#](https://leetcode.com/problems/find-indices-of-stable-mountains/solutions/7206852/easy-optimal-solution-beats-100-by-atama-8dh7/) |
 | 3289 | The Two Sneaky Numbers of Digitville | Easy | [Python](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/solutions/7180593/counting-array-0ms-beats-100-by-atamalu1-enpj/) |
-| 3300 | Minimum Element After Replacement With Digit Sum | Easy | [Python](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/solutions/7180742/no-extra-space-beats-100-by-atamalu123-tqw1/) |
+| 3300 | Minimum Element After Replacement With Digit Sum | Easy | [Python](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/solutions/7206858/optimal-solution-in-python-by-atamalu123-yj14/) |
 | 3340 | Check Balanced String | Easy | [Python](https://leetcode.com/problems/check-balanced-string/solutions/7180294/0ms-beats-100-by-atamalu123-ea4m/) |
+| 3392 | Count Subarrays of Length Three with a Condition | Easy | [Python, Java, C#](https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition/solutions/7206865/easy-optimal-solution-in-python-java-c-b-t4p5/) |
+| 3467 | Transform Array by Parity | Easy | [Python, Java, C#](https://leetcode.com/problems/transform-array-by-parity/solutions/7206883/optimal-on-solution-beats-100-by-atamalu-xhhr/) |
 | 3498 | Reverse Degree of a String | Easy | [Python](https://leetcode.com/problems/reverse-degree-of-a-string/solutions/7177224/dictionary-lookup-by-atamalu123-7ule/) |
+| 3516 | Find Closest Person | Easy | [Python, Java, C#](https://leetcode.com/problems/find-closest-person/solutions/7206890/easy-solution-by-atamalu123-5sjk/) |
 | 3541 | Find Most Frequent Vowel and Consonant | Easy | [Python](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/solutions/7177196/two-solutions-one-slightly-faster-by-ata-gw7m/) |
 | 3581 | Count Odd Letters from Number | Easy | [Python](https://leetcode.com/problems/count-odd-letters-from-number/solutions/7177691/using-a-dictionary-and-logn-digit-extrac-1so3/) |
+| 3667 | Sort Array by Absolute Value | Easy | [Python](https://leetcode.com/problems/sort-array-by-absolute-value/solutions/7206913/beats-100-by-atamalu123-mn31/) |
 | 3682 | Minimum Index Sum of Common Elements | Medium | [Python, Java, C#](https://leetcode.com/problems/minimum-index-sum-of-common-elements/solutions/7194391/simple-hashmap-in-python-java-c-beats-10-m2nr/) |
-
+| 3683 | Earliest Time to Finish One Task | Easy | [Python, Java, C#](https://leetcode.com/problems/earliest-time-to-finish-one-task/solutions/7206915/optimal-1-liner-in-python-by-atamalu123-kh9i/) |
 
 
