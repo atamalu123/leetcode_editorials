@@ -90,7 +90,7 @@
 | 1854 | Maximum Population Year | Easy | [Python](https://leetcode.com/problems/maximum-population-year/solutions/7203838/optimal-solution-using-frequency-diction-nftg/) |
 | 1876 | Substrings of Size Three with Distinct Characters | Easy | [Python](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/solutions/7184156/worlds-easiest-sliding-window-problem-be-lv1k/) |
 | 1929 | Concatenation of Array | Easy | [Python, Java, C#](https://leetcode.com/problems/concatenation-of-array/solutions/7203895/as-easy-as-it-looks-in-python-java-c-by-7csji/) |
-| 1935 | Maximum Number of Words You Can Type | [Python](https://leetcode.com/problems/maximum-number-of-words-you-can-type/solutions/7203910/optimal-solution-in-python-beats-100-0ms-y5d0/) |
+| 1935 | Maximum Number of Words You Can Type | Easy | [Python](https://leetcode.com/problems/maximum-number-of-words-you-can-type/solutions/7203910/optimal-solution-in-python-beats-100-0ms-y5d0/) |
 | 1941 | Check if All Characters Have Equal Number of Occurrences | Easy | [Python](https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/solutions/7180370/count-array-0ms-beats-100-by-atamalu123-c5gg/) |
 | 1967 | Number of Strings That Appear as Substrings in Word | Easy | [Python](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/solutions/7180195/python-0ms-beats-100-by-atamalu123-6qqf/) |
 | 1985 | Find the Kth Largest Integer in the Array | Medium | [Python](https://leetcode.com/problems/find-the-kth-largest-integer-in-the-array/solutions/7190369/using-heap-in-python-by-atamalu123-w70i/) |
