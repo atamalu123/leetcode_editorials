@@ -9,6 +9,7 @@
 | 23 | Merge k Sorted Lists | Hard | [Python](https://leetcode.com/problems/merge-k-sorted-lists/solutions/7190443/simple-solution-in-python-by-atamalu123-za3u/) |
 | 27 | Remove Element | Easy | [Python, Java, C#](https://leetcode.com/problems/remove-element/solutions/7190564/2-pointers-in-python-java-c-beats-100-0m-8s0l/) |
 | 28 | Find the Index of the First Occurrence in a String | Easy | [Python, Java, C#](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/solutions/7190600/sliding-window-in-python-java-c-beats-10-3z6i/) |
+| 49 | Group Anagrams | Medium | [Python, Java, C#](https://leetcode.com/problems/group-anagrams/solutions/7215219/optimal-on-solution-step-by-step-in-pyth-yldy/) |
 | 58 | Length of Last Word | Easy | [Python, Java, C#](https://leetcode.com/problems/length-of-last-word/solutions/7190621/start-from-end-and-count-beats-100-0ms-b-bq12/) |
 | 66 | Plus One | Easy | [Python, Java, C#](https://leetcode.com/problems/plus-one/solutions/7190486/iterating-backwards-beats-100-0ms-in-jav-rm0n/) |
 | 75 | Sort Colors | Medium | [Python, Java, C#](https://leetcode.com/problems/sort-colors/solutions/7190643/easy-intuitive-counting-sort-beats-100-0-emkj/) |
