@@ -3,6 +3,7 @@
 | Number | Problem | Difficulty | Links      |
 | ------ | ------- | ---------- | ---------- |
 | 1 | Two Sum | Easy | [Python, Java, C#](https://leetcode.com/problems/two-sum/solutions/7190509/time-optimal-and-space-optimal-solutions-7z05/) |
+| 7 | Reverse Integer | Medium | [Python, Java, C#, C++, JavaScript, TypeScript](https://leetcode.com/problems/reverse-integer/solutions/7215587/optimal-simple-solution-by-atamalu123-1w38/) |
 | 9 | Palindrome Number | Easy | [Python, Java, C#](https://leetcode.com/problems/palindrome-number/solutions/7190522/simple-reversal-using-java-python-c-beat-o1qi/) |
 | 14 | Longest Common Prefix | Easy | [Python, Java, C#](https://leetcode.com/problems/longest-common-prefix/solutions/7190538/python-java-c-beats-100-by-atamalu123-90ou/) |
 | 21 | Merge Two Sorted Lists | Easy | [Python](https://leetcode.com/problems/merge-two-sorted-lists/solutions/7190404/2-solutions-with-and-without-extra-space-afdh/)
@@ -15,7 +16,7 @@
 | 75 | Sort Colors | Medium | [Python, Java, C#](https://leetcode.com/problems/sort-colors/solutions/7190643/easy-intuitive-counting-sort-beats-100-0-emkj/) |
 | 83 | Remove Duplicates From Sorted List | Easy | [Python, Java, C#](https://leetcode.com/problems/remove-duplicates-from-sorted-list/solutions/7190671/skipping-duplicates-beats-100-0ms-by-ata-880r/) |
 | 125 | Valid Palindrome | Easy | [Python, Java, C#](https://leetcode.com/problems/valid-palindrome/solutions/7190733/convert-then-check-palindrome-by-atamalu-up59/) |
-| 136 | Single Number | Easy | [Python, Java, C#](https://leetcode.com/problems/single-number/solutions/7190780/using-hashmap-in-python-java-c-by-atamal-9ym0/) |
+| 136 | Single Number | Easy | [Python, Java, C#](https://leetcode.com/problems/single-number/solutions/7190780/using-hashmap-in-python-java-c-by-atamal-9ym0/),[C, C++, JavaScript, TypeScript](https://leetcode.com/problems/single-number/solutions/7215855/optimal-solution-using-bit-manipulation-p42gi/) |
 | 141 | Linked List Cycle | Easy | [Python, Java, C#](https://leetcode.com/problems/linked-list-cycle/solutions/7190828/optimal-cycle-finding-algorithm-beats-10-uet3/) |
 | 169 | Majority Element | Easy | [Python, Java, C#](https://leetcode.com/problems/majority-element/solutions/7190892/two-solutions-in-python-java-c-beats-100-1ti5/) |
 | 206 | Reverse Linked List | Easy | [Python, Java, C#, C++, JavaScript, TypeScript](https://leetcode.com/problems/reverse-linked-list/solutions/7215520/easiest-optimal-solution-beats-100/) |
