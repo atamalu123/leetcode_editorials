@@ -18,6 +18,7 @@
 | 136 | Single Number | Easy | [Python, Java, C#](https://leetcode.com/problems/single-number/solutions/7190780/using-hashmap-in-python-java-c-by-atamal-9ym0/) |
 | 141 | Linked List Cycle | Easy | [Python, Java, C#](https://leetcode.com/problems/linked-list-cycle/solutions/7190828/optimal-cycle-finding-algorithm-beats-10-uet3/) |
 | 169 | Majority Element | Easy | [Python, Java, C#](https://leetcode.com/problems/majority-element/solutions/7190892/two-solutions-in-python-java-c-beats-100-1ti5/) |
+| 206 | Reverse Linked List | Easy | [Python, Java, C#, C++, JavaScript, TypeScript](https://leetcode.com/problems/reverse-linked-list/solutions/7215520/easiest-optimal-solution-beats-100/) |
 | 215 | Kth Largest Element in an Array | Medium | [Python](https://leetcode.com/problems/kth-largest-element-in-an-array/solutions/7190362/2-solutions-1-sort-and-heap-by-atamalu12-smi0/)
 | 217 | Contains Duplicate | Easy | [Python, Java, C#](https://leetcode.com/problems/contains-duplicate/solutions/7190959/2-solutions-hashset-and-sorting-by-atama-8lkp/) |
 | 242 | Valid Anagram | Easy | [Python, Java, C#](https://leetcode.com/problems/valid-anagram/solutions/7191104/2-solutions-counting-and-sorting-by-atam-pexy/) |
