@@ -19,6 +19,7 @@
 | 75 | Sort Colors | Medium | [Python, Java, C#](https://leetcode.com/problems/sort-colors/solutions/7190643/easy-intuitive-counting-sort-beats-100-0-emkj/) |
 | 83 | Remove Duplicates From Sorted List | Easy | [Python, Java, C#](https://leetcode.com/problems/remove-duplicates-from-sorted-list/solutions/7190671/skipping-duplicates-beats-100-0ms-by-ata-880r/) |
 | 101 | Symmetric Tree | Easy | [Python, Java, C#, C++, JavaScript, TypeScript](https://leetcode.com/problems/symmetric-tree/solutions/7218965/optimal-recursive-solution-good-explanat-a3l7/) |
+| 121 | Best Time to Buy and Sell Stock | Easy | [Python, Java, C#, C, C++, JavaScript, TypeScript](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/solutions/7219029/optimal-solution-beats-100-by-atamalu123-bxcy/) |
 | 125 | Valid Palindrome | Easy | [Python, Java, C#](https://leetcode.com/problems/valid-palindrome/solutions/7190733/convert-then-check-palindrome-by-atamalu-up59/) |
 | 136 | Single Number | Easy | [Python, Java, C#](https://leetcode.com/problems/single-number/solutions/7190780/using-hashmap-in-python-java-c-by-atamal-9ym0/),[C, C++, JavaScript, TypeScript](https://leetcode.com/problems/single-number/solutions/7215855/optimal-solution-using-bit-manipulation-p42gi/) |
 | 141 | Linked List Cycle | Easy | [Python, Java, C#](https://leetcode.com/problems/linked-list-cycle/solutions/7190828/optimal-cycle-finding-algorithm-beats-10-uet3/) |
