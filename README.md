@@ -194,6 +194,7 @@
 | 3340 | Check Balanced String | Easy | [Python](https://leetcode.com/problems/check-balanced-string/solutions/7180294/0ms-beats-100-by-atamalu123-ea4m/) |
 | 3392 | Count Subarrays of Length Three with a Condition | Easy | [Python, Java, C#](https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition/solutions/7206865/easy-optimal-solution-in-python-java-c-b-t4p5/) |
 | 3467 | Transform Array by Parity | Easy | [Python, Java, C#](https://leetcode.com/problems/transform-array-by-parity/solutions/7206883/optimal-on-solution-beats-100-by-atamalu-xhhr/) |
+| 3487 | Maximum Unique Subarray Sum After Deletion | Easy | [Python, Java, C#, C++, JavaScript, TypeScript](https://leetcode.com/problems/maximum-unique-subarray-sum-after-deletion/solutions/7221354/intuitive-true-one-pass-optimal-solution-beats-100/) |
 | 3498 | Reverse Degree of a String | Easy | [Python](https://leetcode.com/problems/reverse-degree-of-a-string/solutions/7177224/dictionary-lookup-by-atamalu123-7ule/) |
 | 3516 | Find Closest Person | Easy | [Python, Java, C#](https://leetcode.com/problems/find-closest-person/solutions/7206890/easy-solution-by-atamalu123-5sjk/) |
 | 3541 | Find Most Frequent Vowel and Consonant | Easy | [Python](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/solutions/7177196/two-solutions-one-slightly-faster-by-ata-gw7m/) |
