@@ -13,6 +13,7 @@
 | 26 | Remove Duplicate from Sorted Array | Easy | [Python, Java, C#, C, C++, JavaScript, TypeScript](https://leetcode.com/problems/remove-duplicates-from-sorted-array/solutions/7218905/simple-optimal-solution-beats-100-by-ata-o0t1/) |
 | 27 | Remove Element | Easy | [Python, Java, C#](https://leetcode.com/problems/remove-element/solutions/7190564/2-pointers-in-python-java-c-beats-100-0m-8s0l/) |
 | 28 | Find the Index of the First Occurrence in a String | Easy | [Python, Java, C#](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/solutions/7190600/sliding-window-in-python-java-c-beats-10-3z6i/) |
+| 42 | Trapping Rain Water | Hard | [Python, Java, C#, C, C++, JavaScript, TypeScript, Go](https://leetcode.com/problems/trapping-rain-water/solutions/7220650/optimal-solution-ono1-beats-100-by-atama-sxrs/) |
 | 49 | Group Anagrams | Medium | [Python, Java, C#](https://leetcode.com/problems/group-anagrams/solutions/7215219/optimal-on-solution-step-by-step-in-pyth-yldy/) |
 | 58 | Length of Last Word | Easy | [Python, Java, C#](https://leetcode.com/problems/length-of-last-word/solutions/7190621/start-from-end-and-count-beats-100-0ms-b-bq12/) |
 | 66 | Plus One | Easy | [Python, Java, C#](https://leetcode.com/problems/plus-one/solutions/7190486/iterating-backwards-beats-100-0ms-in-jav-rm0n/) |
