@@ -92,6 +92,7 @@
 | 1704 | Determine if String Halves Are Alike | Easy | [Python](https://leetcode.com/problems/determine-if-string-halves-are-alike/solutions/7180387/simplest-python-solution-0ms-beats-100-b-cd61/) |
 | 1732 | Find the Highest Altitude | Easy | [Python](https://leetcode.com/problems/find-the-highest-altitude/solutions/7180780/beats-100-by-atamalu123-hna3/) |
 | 1748 | Sum of Unique Elements | Easy | [Python, Java, C#](https://leetcode.com/problems/sum-of-unique-elements/solutions/7203765/using-hashmap-in-python-java-c-beats-100-shih/) |
+| 1762 | Buildings With an Ocean View | Medium | [Python, Java, C#, C++, JavaScript, TypeScript](https://leetcode.com/problems/buildings-with-an-ocean-view/solutions/7221165/optimal-solution-ono1-beats-100-by-atama-psty/) |
 | 1768 | Merge Strings Alternately | Easy | [Python](https://leetcode.com/problems/merge-strings-alternately/solutions/7180164/most-intuitive-two-pointers-solution-by-3t9wm/) |
 | 1773 | Count Items Matching a Rule | Easy | [Python](https://leetcode.com/problems/count-items-matching-a-rule/solutions/7180681/nested-ifs-in-python-by-atamalu123-gkax/) |
 | 1816 | Truncate Sentence | Easy | [Python](https://leetcode.com/problems/truncate-sentence/solutions/7177544/0ms-beats-100-by-atamalu123-f42k/) |
