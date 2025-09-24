@@ -7,8 +7,10 @@
 | 7 | Reverse Integer | Medium | [Python, Java, C#, C++, JavaScript, TypeScript](https://leetcode.com/problems/reverse-integer/solutions/7215587/optimal-simple-solution-by-atamalu123-1w38/) |
 | 9 | Palindrome Number | Easy | [Python, Java, C#](https://leetcode.com/problems/palindrome-number/solutions/7190522/simple-reversal-using-java-python-c-beat-o1qi/) |
 | 14 | Longest Common Prefix | Easy | [Python, Java, C#](https://leetcode.com/problems/longest-common-prefix/solutions/7190538/python-java-c-beats-100-by-atamalu123-90ou/) |
-| 21 | Merge Two Sorted Lists | Easy | [Python](https://leetcode.com/problems/merge-two-sorted-lists/solutions/7190404/2-solutions-with-and-without-extra-space-afdh/)
+| 19 | Remove Nth Node From End of List | Medium | [Python, Java, C#, C++, JavaScript, TypeScript](https://leetcode.com/problems/remove-nth-node-from-end-of-list/solutions/7218868/optimal-solution-beats-100-by-atamalu123-sqy3/) |
+| 21 | Merge Two Sorted Lists | Easy | [Python](https://leetcode.com/problems/merge-two-sorted-lists/solutions/7190404/2-solutions-with-and-without-extra-space-afdh/) |
 | 23 | Merge k Sorted Lists | Hard | [Python](https://leetcode.com/problems/merge-k-sorted-lists/solutions/7190443/simple-solution-in-python-by-atamalu123-za3u/) |
+| 26 | Remove Duplicate from Sorted Array | Easy | [Python, Java, C#, C, C++, JavaScript, TypeScript](https://leetcode.com/problems/remove-duplicates-from-sorted-array/solutions/7218905/simple-optimal-solution-beats-100-by-ata-o0t1/) |
 | 27 | Remove Element | Easy | [Python, Java, C#](https://leetcode.com/problems/remove-element/solutions/7190564/2-pointers-in-python-java-c-beats-100-0m-8s0l/) |
 | 28 | Find the Index of the First Occurrence in a String | Easy | [Python, Java, C#](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/solutions/7190600/sliding-window-in-python-java-c-beats-10-3z6i/) |
 | 49 | Group Anagrams | Medium | [Python, Java, C#](https://leetcode.com/problems/group-anagrams/solutions/7215219/optimal-on-solution-step-by-step-in-pyth-yldy/) |
@@ -16,6 +18,7 @@
 | 66 | Plus One | Easy | [Python, Java, C#](https://leetcode.com/problems/plus-one/solutions/7190486/iterating-backwards-beats-100-0ms-in-jav-rm0n/) |
 | 75 | Sort Colors | Medium | [Python, Java, C#](https://leetcode.com/problems/sort-colors/solutions/7190643/easy-intuitive-counting-sort-beats-100-0-emkj/) |
 | 83 | Remove Duplicates From Sorted List | Easy | [Python, Java, C#](https://leetcode.com/problems/remove-duplicates-from-sorted-list/solutions/7190671/skipping-duplicates-beats-100-0ms-by-ata-880r/) |
+| 101 | Symmetric Tree | Easy | [Python, Java, C#, C++, JavaScript, TypeScript](https://leetcode.com/problems/symmetric-tree/solutions/7218965/optimal-recursive-solution-good-explanat-a3l7/) |
 | 125 | Valid Palindrome | Easy | [Python, Java, C#](https://leetcode.com/problems/valid-palindrome/solutions/7190733/convert-then-check-palindrome-by-atamalu-up59/) |
 | 136 | Single Number | Easy | [Python, Java, C#](https://leetcode.com/problems/single-number/solutions/7190780/using-hashmap-in-python-java-c-by-atamal-9ym0/),[C, C++, JavaScript, TypeScript](https://leetcode.com/problems/single-number/solutions/7215855/optimal-solution-using-bit-manipulation-p42gi/) |
 | 141 | Linked List Cycle | Easy | [Python, Java, C#](https://leetcode.com/problems/linked-list-cycle/solutions/7190828/optimal-cycle-finding-algorithm-beats-10-uet3/) |
