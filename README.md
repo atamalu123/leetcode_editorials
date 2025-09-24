@@ -145,6 +145,7 @@
 | 2643 | Row With Maximum Ones | Easy | [Python, Java, C#](https://leetcode.com/problems/row-with-maximum-ones/solutions/7206643/optimal-easy-solution-in-python-java-c-b-ed7o/) |
 | 2651 | Calculate Delayed Arrival Time | Easy | [Python, Java, C#, C, C++, JavaScript, TypeScript](https://leetcode.com/problems/calculate-delayed-arrival-time/solutions/7206650/easy-o1o1-by-atamalu123-sygs/) |
 | 2656 | Maximum Sum With Exactly K Elements | Easy | [Python, Java, C#](https://leetcode.com/problems/maximum-sum-with-exactly-k-elements/solutions/7206669/easy-optimal-solution-in-python-java-c-b-ari9/) |
+| 2667 | Create Hello World Function | Easy | [JavaScript, TypeScript](https://leetcode.com/problems/create-hello-world-function/solutions/7221088/the-hardest-question-on-leetcode-by-atam-e64y/) |
 | 2678 | Number of Senior Citizens | Easy | [Python, Java, C#](https://leetcode.com/problems/number-of-senior-citizens/solutions/7206718/optimal-solution-in-python-java-c-by-ata-7ntx/) |
 | 2706 | Buy Two Chocolates | Easy | [Python, Java, C#](https://leetcode.com/problems/buy-two-chocolates/solutions/7206733/one-pass-optimal-solution-beats-100-0ms-sd5n7/) |
 | 2710 | Remove Trailing Zeroes From a String | Easy | [Python](https://leetcode.com/problems/remove-trailing-zeros-from-a-string/solutions/7180372/simple-intuitive-python-solution-by-atam-6hk4/) |
