@@ -10,6 +10,7 @@
 | 14 | Longest Common Prefix | Easy | [Python, Java, C#](https://leetcode.com/problems/longest-common-prefix/solutions/7190538/python-java-c-beats-100-by-atamalu123-90ou/) |
 | 19 | Remove Nth Node From End of List | Medium | [Python, Java, C#, C++, JavaScript, TypeScript](https://leetcode.com/problems/remove-nth-node-from-end-of-list/solutions/7218868/optimal-solution-beats-100-by-atamalu123-sqy3/) |
 | 21 | Merge Two Sorted Lists | Easy | [Python](https://leetcode.com/problems/merge-two-sorted-lists/solutions/7190404/2-solutions-with-and-without-extra-space-afdh/) |
+| 22 | Generate Parentheses | Medium | [Python, Java, C#, C++](https://leetcode.com/problems/generate-parentheses/solutions/7221073/backtracking-explained-beats-100-by-atam-rkxz/) |
 | 23 | Merge k Sorted Lists | Hard | [Python](https://leetcode.com/problems/merge-k-sorted-lists/solutions/7190443/simple-solution-in-python-by-atamalu123-za3u/) |
 | 26 | Remove Duplicate from Sorted Array | Easy | [Python, Java, C#, C, C++, JavaScript, TypeScript](https://leetcode.com/problems/remove-duplicates-from-sorted-array/solutions/7218905/simple-optimal-solution-beats-100-by-ata-o0t1/) |
 | 27 | Remove Element | Easy | [Python, Java, C#](https://leetcode.com/problems/remove-element/solutions/7190564/2-pointers-in-python-java-c-beats-100-0m-8s0l/) |
