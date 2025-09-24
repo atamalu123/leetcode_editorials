@@ -3,6 +3,7 @@
 | Number | Problem | Difficulty | Links      |
 | ------ | ------- | ---------- | ---------- |
 | 1 | Two Sum | Easy | [Python, Java, C#](https://leetcode.com/problems/two-sum/solutions/7190509/time-optimal-and-space-optimal-solutions-7z05/) |
+| 2 | Add Two Numbers | Medium | [Python, Java, C#, C, C++, JavaScript, TypeScript](https://leetcode.com/problems/add-two-numbers/solutions/7218799/easy-optimal-solution-beats-100/) |
 | 3 | Longest Substring Without Repeating Characters | Medium | [Python, Java, C#, C++, JavaScript, TypeScript](https://leetcode.com/problems/longest-substring-without-repeating-characters/solutions/7218743/on-solution-using-hashset-not-in-editori-199p/) |
 | 7 | Reverse Integer | Medium | [Python, Java, C#, C++, JavaScript, TypeScript](https://leetcode.com/problems/reverse-integer/solutions/7215587/optimal-simple-solution-by-atamalu123-1w38/) |
 | 9 | Palindrome Number | Easy | [Python, Java, C#](https://leetcode.com/problems/palindrome-number/solutions/7190522/simple-reversal-using-java-python-c-beat-o1qi/) |
