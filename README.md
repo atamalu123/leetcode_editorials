@@ -189,6 +189,7 @@
 | 3151 | Special Array I | Easy | [Python, Java, C#](https://leetcode.com/problems/special-array-i/solutions/7206824/simple-optimal-solution-beats-100-in-pyt-o5b4/) |
 | 3168 | Minimum Number of Chairs in a Waiting Room | Easy | [Python](https://leetcode.com/problems/minimum-number-of-chairs-in-a-waiting-room/solutions/7180377/simple-intuitive-python-solution-by-atam-wgqj/) |
 | 3232 | Find if Digit Game Can Be Won | Easy | [Python, Java, C#](https://leetcode.com/problems/find-if-digit-game-can-be-won/solutions/7197310/count-single-and-double-digits-beats-100-tpgi/) |
+| 3242 | Design Neighbor Sum Service | Easy | [Python, Java, C#](https://leetcode.com/problems/design-neighbor-sum-service/solutions/7221897/pre-computation-with-o1-time-sum-methods-1scj/) |
 | 3248 | Snake in Matrix | Easy | [Python](https://leetcode.com/problems/snake-in-matrix/solutions/7180257/0ms-beats-100-by-atamalu123-5nd4/) |
 | 3285 | Find Indices of Stable Mountains | Easy | [Python, Java, C#](https://leetcode.com/problems/find-indices-of-stable-mountains/solutions/7206852/easy-optimal-solution-beats-100-by-atama-8dh7/) |
 | 3289 | The Two Sneaky Numbers of Digitville | Easy | [Python](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/solutions/7180593/counting-array-0ms-beats-100-by-atamalu1-enpj/) |
