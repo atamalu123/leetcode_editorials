@@ -98,6 +98,7 @@
 | 1762 | Buildings With an Ocean View | Medium | [Python, Java, C#, C++, JavaScript, TypeScript](https://leetcode.com/problems/buildings-with-an-ocean-view/solutions/7221165/optimal-solution-ono1-beats-100-by-atama-psty/) |
 | 1768 | Merge Strings Alternately | Easy | [Python](https://leetcode.com/problems/merge-strings-alternately/solutions/7180164/most-intuitive-two-pointers-solution-by-3t9wm/) |
 | 1773 | Count Items Matching a Rule | Easy | [Python](https://leetcode.com/problems/count-items-matching-a-rule/solutions/7180681/nested-ifs-in-python-by-atamalu123-gkax/) |
+| 1800 | Maximum Ascending Subarray Sum | Easy | [Python, Java, C#, C, C++, JavaScript, TypeScript](https://leetcode.com/problems/maximum-ascending-subarray-sum/solutions/7224196/easy-optimal-solution-beats-100-in-pytho-0o8e/) |
 | 1816 | Truncate Sentence | Easy | [Python](https://leetcode.com/problems/truncate-sentence/solutions/7177544/0ms-beats-100-by-atamalu123-f42k/) |
 | 1822 | Sign of the Product of an Array | Easy | [Python, Java, C#](https://leetcode.com/problems/sign-of-the-product-of-an-array/solutions/7197138/optimal-solution-in-python-java-c-beats-uxr27/) |
 | 1832 | Check if the Sentence is Pangram | Easy | [Python](https://leetcode.com/problems/check-if-the-sentence-is-pangram/solutions/7179993/using-counting-by-atamalu123-o7tt/) |
