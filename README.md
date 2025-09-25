@@ -35,6 +35,7 @@
 | 242 | Valid Anagram | Easy | [Python, Java, C#](https://leetcode.com/problems/valid-anagram/solutions/7191104/2-solutions-counting-and-sorting-by-atam-pexy/) |
 | 283 | Move Zeroes | Easy | [Python, Java, C#](https://leetcode.com/problems/move-zeroes/solutions/7194401/simple-intuitive-optimal-solution-in-pyt-bcwk/) |
 | 344 | Reverse String | Easy | [Python, Java, C#](https://leetcode.com/problems/reverse-string/solutions/7194406/easy-optimal-solution-in-python-java-c-b-iinr/) |
+| 359 | Logger Rate Limiter | Easy | [Python, Java, C#, C++, JavaScript, TypeScript](https://leetcode.com/problems/logger-rate-limiter/solutions/7221508/scalable-optimal-solution-with-follow-up-ir57/) |
 | 387 | First Unique Character in a String | Easy | [Python, Java, C#](https://leetcode.com/problems/first-unique-character-in-a-string/solutions/7194414/optimal-solution-using-hashmap-in-python-m68a/) |
 | 412 | Fizz Buzz | Easy | [Python, Java, C#](https://leetcode.com/problems/fizz-buzz/solutions/7197395/no-need-to-overcomplicate-just-simulate-lmy6m/) |
 | 448 | Find All Numbers Disappeared in an Array | Easy | [Python, Java, C#](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/solutions/7197465/using-hashset-in-python-java-c-by-atamal-s4wc/) |
