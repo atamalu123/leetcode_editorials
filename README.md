@@ -85,6 +85,7 @@
 | 1496 | Path Crossing | Easy | [Python, Java](https://leetcode.com/problems/path-crossing/solutions/7203723/optimal-solution-in-python-java-beats-10-bgb5/) |
 | 1528 | Shuffle String | Easy | [Python](https://leetcode.com/problems/shuffle-string/solutions/7177713/0ms-beats-100-by-atamalu123-d00e/) |
 | 1550 | Three Consecutive Odds | Easy | [Python, Java, C#](https://leetcode.com/problems/three-consecutive-odds/solutions/7197091/optimal-solution-without-repeated-checks-vu12/) |
+| 1572 | Matrix Diagonal Sum | Easy | [Python, Java, C#, C, C++, JavaScript, TypeScript](https://leetcode.com/problems/matrix-diagonal-sum/solutions/7224219/easy-optimal-one-pass-ono1-solution-made-qe0m/) |
 | 1603 | Design Parking System | Easy | [Python, Java, C#, C++, JavaScript, TypeScript](https://leetcode.com/problems/design-parking-system/solutions/7221605/simplest-optimal-solution-beats-100-by-a-w9dc/) |
 | 1614 | Maximum Nesting Depth of the Parentheses | Easy | [Python](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/solutions/7177747/using-a-running-maximum-by-atamalu123-pmbw/) |
 | 1636 | Sort Array by Increasing Frequency | Easy | [Python](https://leetcode.com/problems/sort-array-by-increasing-frequency/solutions/7183851/0ms-beats-100-by-atamalu123-vwd0/) |
