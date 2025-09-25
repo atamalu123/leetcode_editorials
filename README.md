@@ -125,6 +125,7 @@
 | 2119 | A Number After a Double Reversal | Easy | [Python, Java, C#, C, C++, Javascript, TypeScript](https://leetcode.com/problems/a-number-after-a-double-reversal/solutions/7204287/1-liner-optimal-in-different-languages-b-qu9l/) |
 | 2124 | Check if All A's Appear Before All B's | Easy | [Python](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/solutions/7180556/keep-track-of-seen-0ms-beats-100-by-atam-tftm/) |
 | 2148 | Count Elements With Strictly Smaller and Greater Elements | Easy | [Python, Java, C#](https://leetcode.com/problems/count-elements-with-strictly-smaller-and-greater-elements/solutions/7204382/optimal-ono1-solution-in-python-java-c-b-9zj9/) |
+| 2169 | Count Operations to Obtain Zero | Easy | [Python, Java, C#, C, C++, JavaScript, TypeScript](https://leetcode.com/problems/count-operations-to-obtain-zero/solutions/7224189/easy-solution-in-python-java-c-c-c-types-dsa3/) |
 | 2176 | Count Equal and Divisible Pairs in an Array | Easy | [Python, Java, C#](https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/solutions/7206217/optimal-solution-in-python-java-c-beats-cwiel/) |
 | 2185 | Counting Words With a Given Prefix | Easy | [Python, Java, C#](https://leetcode.com/problems/counting-words-with-a-given-prefix/solutions/7206247/easy-optimal-solution-in-python-java-c-b-3iq8/) |
 | 2215 | Find the Difference of Two Arrays | Easy | [Python, Java, C#](https://leetcode.com/problems/find-the-difference-of-two-arrays/solutions/7206304/easy-optimal-solution-in-python-java-c-b-si1h/) |
