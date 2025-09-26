@@ -188,6 +188,7 @@
 | 2974 | Minimum Number Game | Easy | [Python, Java, C#](https://leetcode.com/problems/minimum-number-game/solutions/7194429/simple-simulation-in-python-java-c-by-at-waz3/) |
 | 3005 | Count Elements With Maximum Frequency | Easy | [Python](https://leetcode.com/problems/count-elements-with-maximum-frequency/description/) |
 | 3019 | Number of Changing Keys | Easy | [Python, Java, C#](https://leetcode.com/problems/number-of-changing-keys/solutions/7196856/one-pass-optimal-solution-in-python-java-svk7/) |
+| 3028 | Ant on the Boundary | Easy | [Python, Java, C#, C, C++, JavaScript, TypeScript](https://leetcode.com/problems/ant-on-the-boundary/solutions/7224594/optimal-solution-beats-100-in-python-jav-0w8q/) |
 | 3046 | Split the Array | Easy | [Python, Java, C#](https://leetcode.com/problems/split-the-array/solutions/7206790/easy-optimal-solution-in-python-java-c-b-0nmw/) |
 | 3099 | Harshad Number | Easy | [Python, Java, C#](https://leetcode.com/problems/harshad-number/solutions/7206795/optimal-solution-in-python-java-c-beats-dbypf/) |
 | 3105 | Longest Strictly Increasing or Strictly Decreasing Subarray | Easy | [Python, Java, C#](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/solutions/7206808/one-pass-easy-optimal-solution-beats-100-58d6/) |
