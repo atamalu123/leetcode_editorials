@@ -78,6 +78,7 @@
 | 1431 | Kids With the Greatest Number of Candies | Easy | [Python](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/solutions/7180602/0ms-beats-100-by-atamalu123-fbwb/) |
 | 1446 | Consecutive Characters | Easy | [Python, Java, C#](https://leetcode.com/problems/consecutive-characters/solutions/7203621/simple-solution-in-java-python-c-by-atam-fqrc/) |
 | 1450 | Number of Students Doing Homework at a Given Time | Easy | [Python, Java, C#](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/solutions/7203633/easiest-leetcode-problem-by-atamalu123-lbor/) |
+| 1460 | Make Two Arrays Equal by Reversing Subarrays | Easy | [Python, Java, C#](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays/solutions/7224495/2-solutions-in-python-java-c-python-1-li-hr01/) |
 | 1464 | Maximum Product of Two Elements in an Array | Easy | [Python](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/solutions/7203651/maximum-product-of-two-elements-in-an-ar-xbi9/) |
 | 1470 | Shuffle the Array | Easy | [Python, Java, C#](https://leetcode.com/problems/shuffle-the-array/solutions/7203669/shuffling-in-java-python-c-beats-100-by-4x83a/) |
 | 1480 | Running Sum of 1d Array | Easy | [Python, Java, C#](https://leetcode.com/problems/running-sum-of-1d-array/solutions/7203685/simple-solution-in-python-java-c-beats-1-jam9/) |
@@ -129,6 +130,7 @@
 | 2114 | Maximum Number of Words Found in Sentences | Easy | [Python](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/solutions/7177396/simple-counting-by-atamalu123-xem5/) |
 | 2119 | A Number After a Double Reversal | Easy | [Python, Java, C#, C, C++, Javascript, TypeScript](https://leetcode.com/problems/a-number-after-a-double-reversal/solutions/7204287/1-liner-optimal-in-different-languages-b-qu9l/) |
 | 2124 | Check if All A's Appear Before All B's | Easy | [Python](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/solutions/7180556/keep-track-of-seen-0ms-beats-100-by-atam-tftm/) |
+| 2144 | Minimum Cost of Buying Candies With Discount | Easy | [Python](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/solutions/7224544/1-liner-in-python-by-atamalu123-xfdo/) |
 | 2148 | Count Elements With Strictly Smaller and Greater Elements | Easy | [Python, Java, C#](https://leetcode.com/problems/count-elements-with-strictly-smaller-and-greater-elements/solutions/7204382/optimal-ono1-solution-in-python-java-c-b-9zj9/) |
 | 2169 | Count Operations to Obtain Zero | Easy | [Python, Java, C#, C, C++, JavaScript, TypeScript](https://leetcode.com/problems/count-operations-to-obtain-zero/solutions/7224189/easy-solution-in-python-java-c-c-c-types-dsa3/) |
 | 2176 | Count Equal and Divisible Pairs in an Array | Easy | [Python, Java, C#](https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/solutions/7206217/optimal-solution-in-python-java-c-beats-cwiel/) |
