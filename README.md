@@ -83,6 +83,7 @@
 | 1480 | Running Sum of 1d Array | Easy | [Python, Java, C#](https://leetcode.com/problems/running-sum-of-1d-array/solutions/7203685/simple-solution-in-python-java-c-beats-1-jam9/) |
 | 1491 | Average Salary Excluding the Minimum and Maximum Salary | Easy | [Python, Java, C#](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/solutions/7203692/optimal-solution-in-python-java-c-beats-lgg0w/) |
 | 1496 | Path Crossing | Easy | [Python, Java](https://leetcode.com/problems/path-crossing/solutions/7203723/optimal-solution-in-python-java-beats-10-bgb5/) |
+| 1512 | Number of Good Pairs | Easy | [Python, Java, C#, C++](https://leetcode.com/problems/number-of-good-pairs/solutions/7224299/simple-short-solution-beats-100-by-atama-ewen/) |
 | 1528 | Shuffle String | Easy | [Python](https://leetcode.com/problems/shuffle-string/solutions/7177713/0ms-beats-100-by-atamalu123-d00e/) |
 | 1550 | Three Consecutive Odds | Easy | [Python, Java, C#](https://leetcode.com/problems/three-consecutive-odds/solutions/7197091/optimal-solution-without-repeated-checks-vu12/) |
 | 1572 | Matrix Diagonal Sum | Easy | [Python, Java, C#, C, C++, JavaScript, TypeScript](https://leetcode.com/problems/matrix-diagonal-sum/solutions/7224219/easy-optimal-one-pass-ono1-solution-made-qe0m/) |
@@ -104,8 +105,10 @@
 | 1822 | Sign of the Product of an Array | Easy | [Python, Java, C#](https://leetcode.com/problems/sign-of-the-product-of-an-array/solutions/7197138/optimal-solution-in-python-java-c-beats-uxr27/) |
 | 1832 | Check if the Sentence is Pangram | Easy | [Python](https://leetcode.com/problems/check-if-the-sentence-is-pangram/solutions/7179993/using-counting-by-atamalu123-o7tt/) |
 | 1844 | Replace All Digits with Characters | Easy | [Python](https://leetcode.com/problems/replace-all-digits-with-characters/solutions/7203792/optimal-solution-in-python-by-atamalu123-398p/) |
+| 1848 | Minimum Distance to the Target Element | Easy | [Python, Java, C#](https://leetcode.com/problems/minimum-distance-to-the-target-element/solutions/7203798/optimal-solution-in-python-java-c-beats-100-0ms/) |
 | 1854 | Maximum Population Year | Easy | [Python](https://leetcode.com/problems/maximum-population-year/solutions/7203838/optimal-solution-using-frequency-diction-nftg/) |
 | 1876 | Substrings of Size Three with Distinct Characters | Easy | [Python](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/solutions/7184156/worlds-easiest-sliding-window-problem-be-lv1k/) |
+| 1920 | Build Array from Permutation | Easy | [Python, Java, C#, C, C++, JavaScript, TypeScript](https://leetcode.com/problems/build-array-from-permutation/solutions/7224324/easy-solution-in-python-java-c-c-c-javas-u162/) |
 | 1929 | Concatenation of Array | Easy | [Python, Java, C#](https://leetcode.com/problems/concatenation-of-array/solutions/7203895/as-easy-as-it-looks-in-python-java-c-by-7csji/) |
 | 1935 | Maximum Number of Words You Can Type | Easy | [Python](https://leetcode.com/problems/maximum-number-of-words-you-can-type/solutions/7203910/optimal-solution-in-python-beats-100-0ms-y5d0/) |
 | 1941 | Check if All Characters Have Equal Number of Occurrences | Easy | [Python](https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/solutions/7180370/count-array-0ms-beats-100-by-atamalu123-c5gg/) |
@@ -205,6 +208,7 @@
 | 3516 | Find Closest Person | Easy | [Python, Java, C#](https://leetcode.com/problems/find-closest-person/solutions/7206890/easy-solution-by-atamalu123-5sjk/) |
 | 3541 | Find Most Frequent Vowel and Consonant | Easy | [Python](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/solutions/7177196/two-solutions-one-slightly-faster-by-ata-gw7m/) |
 | 3581 | Count Odd Letters from Number | Easy | [Python](https://leetcode.com/problems/count-odd-letters-from-number/solutions/7177691/using-a-dictionary-and-logn-digit-extrac-1so3/) |
+| 3612 | Process String with Special Operations I | Medium | [Python, Java, C#, C++](https://leetcode.com/problems/process-string-with-special-operations-i/solutions/7224447/simulation-with-follow-up-question-beats-4oa4/) |
 | 3667 | Sort Array by Absolute Value | Easy | [Python](https://leetcode.com/problems/sort-array-by-absolute-value/solutions/7206913/beats-100-by-atamalu123-mn31/) |
 | 3682 | Minimum Index Sum of Common Elements | Medium | [Python, Java, C#](https://leetcode.com/problems/minimum-index-sum-of-common-elements/solutions/7194391/simple-hashmap-in-python-java-c-beats-10-m2nr/) |
 | 3683 | Earliest Time to Finish One Task | Easy | [Python, Java, C#](https://leetcode.com/problems/earliest-time-to-finish-one-task/solutions/7206915/optimal-1-liner-in-python-by-atamalu123-kh9i/) |
