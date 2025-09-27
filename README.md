@@ -92,7 +92,7 @@
 | 1603 | Design Parking System | Easy | [Python, Java, C#, C++, JavaScript, TypeScript](https://leetcode.com/problems/design-parking-system/solutions/7221605/simplest-optimal-solution-beats-100-by-a-w9dc/) |
 | 1614 | Maximum Nesting Depth of the Parentheses | Easy | [Python](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/solutions/7177747/using-a-running-maximum-by-atamalu123-pmbw/) |
 | 1636 | Sort Array by Increasing Frequency | Easy | [Python](https://leetcode.com/problems/sort-array-by-increasing-frequency/solutions/7183851/0ms-beats-100-by-atamalu123-vwd0/) |
-| 1662 | Check If Two String Arrays are Equivalent | Easy | [Python](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/solutions/7177597/2-solutions-1-liner-o1-space-by-atamalu1-5yia/) |
+| 1662 | Check If Two String Arrays are Equivalent | Easy | [Python, Java, C#, JavaScript, TypeScript](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/solutions/7227068/optimal-1-liner-explained-beats-100-by-a-bthx/) |
 | 1672 | Richest Customer Wealth | Easy | [Python, Java, C#](https://leetcode.com/problems/richest-customer-wealth/solutions/7197048/simple-easy-optimal-solution-in-python-j-1tn8/) |
 | 1678 | Goal Parser Interpretation | Easy | [Python, Java](https://leetcode.com/problems/goal-parser-interpretation/solutions/7177105/one-pointer-solution-by-atamalu123-4a88/) |
 | 1684 | Count the Number of Consistent Strings | Easy | [Python, Java](https://leetcode.com/problems/count-the-number-of-consistent-strings/solutions/7177034/using-hashset-by-atamalu123-gtqc/) |
@@ -121,6 +121,7 @@
 | 2011 | Final Value of Variable After Performing Operations | Easy | [Python, Java, C#](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/solutions/7203933/simple-just-simulate-java-python-c-by-at-sin3/) |
 | 2032 | Two Out of Three | Easy | [Python](https://leetcode.com/problems/two-out-of-three/solutions/7184136/3-hashsets-beats-100-0ms-by-atamalu123-l1ky/) |
 | 2037 | Minimum Number of Moves to Seat Everyone | Easy | [Python, Java, C#](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/solutions/7203988/easy-simple-in-python-java-c-by-atamalu1-h3g5/) |
+| 2042 | Check if Numbers Are Ascending in a Sentence | Easy | [Python](https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/solutions/7226993/optimal-solution-in-python-beats-100-by-sveyz/) |
 | 2053 | Kth Distinct String in an Array | Easy | [Python](https://leetcode.com/problems/kth-distinct-string-in-an-array/solutions/7180242/2-solutions-optimal-time-vs-optimal-spac-7vhl/) |
 | 2057 | Smallest Index With Equal Value | Easy | [Python, Java, C#](https://leetcode.com/problems/smallest-index-with-equal-value/solutions/7204011/easy-optimal-solution-beats-100-0ms-by-a-mlva/) |
 | 2068 | Check Whether Two Strings are Almost Equivalent | Easy | [Python, Java, C#](https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent/solutions/7204064/easy-solution-in-python-java-c-beats-100-j999/) |
@@ -187,6 +188,7 @@
 | 2886 | Change Data Type | Easy | [Python](https://leetcode.com/problems/change-data-type/solutions/7206769/1-line-by-atamalu123-zdr3/) |
 | 2887 | Fill Missing Data | Easy | [Python](https://leetcode.com/problems/fill-missing-data/solutions/7206770/1-line-by-atamalu123-uwcp/) |
 | 2888 | Reshape Data: Concatenate | Easy | [Python](https://leetcode.com/problems/reshape-data-concatenate/solutions/7206772/1-line-by-atamalu123-j116/) |
+| 2923 | Find Champion I | Easy | [Python, Java, C#, C, C++, JavaScript, TypeScript](https://leetcode.com/problems/find-champion-i/solutions/7227021/easiest-solution-better-description-of-p-lgic/) |
 | 2942 | Find Words Containing Character | Easy | [Python, Java, C#](https://leetcode.com/problems/find-words-containing-character/solutions/7196900/easy-simple-solution-in-python-java-c-be-ucof/) |
 | 2951 | Find the Peaks | Easy | [Python, Java, C#](https://leetcode.com/problems/find-the-peaks/solutions/7206782/easy-optimal-solution-in-python-java-c-b-gzns/) |
 | 2956 | Find Common Elements Between Two Arrays | Easy | [Python](https://leetcode.com/problems/find-common-elements-between-two-arrays/solutions/7180759/using-hash-sets-in-python-by-atamalu123-vehu/) |
