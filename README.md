@@ -139,6 +139,7 @@
 | 2215 | Find the Difference of Two Arrays | Easy | [Python, Java, C#](https://leetcode.com/problems/find-the-difference-of-two-arrays/solutions/7206304/easy-optimal-solution-in-python-java-c-b-si1h/) |
 | 2235 | Add Two Integers | Easy | [Python, Java, C#, C, C++, JavaScript, TypeScript](https://leetcode.com/problems/add-two-integers/solutions/7206324/wow-best-solution/) |
 | 2239 | Find Closest Number to Zero | Easy | [Python, Java, C#](https://leetcode.com/problems/find-closest-number-to-zero/solutions/7206355/easy-optimal-solution-in-python-java-c-b-ukjq/) |
+| 2248 | Intersection of Multiple Arrays | Easy | [Python, Java, C#, C, C++, JavaScript, TypeScript](https://leetcode.com/problems/intersection-of-multiple-arrays/solutions/7226873/optimal-solution-without-sorting-and-fol-ox39/) |
 | 2255 | Count Prefixes of a Given String | Easy | [Python](https://leetcode.com/problems/count-prefixes-of-a-given-string/solutions/7180508/using-startswith-0ms-beats-100-by-atamal-ke3x/) |
 | 2264 | Largest 3-Same-Digit Number in String | Easy | [Python, Java, C#](https://leetcode.com/problems/largest-3-same-digit-number-in-string/solutions/7206404/easy-optimal-solution-in-python-java-c-b-lff5/) |
 | 2278 | Percentage of Letter in String | Easy | [Python, Java, C#](https://leetcode.com/problems/percentage-of-letter-in-string/solutions/7206437/easy-optimal-solution-in-python-java-c-b-fnno/) |
@@ -199,6 +200,7 @@
 | 3131 | Find the Integer Added to Array I | Easy | [Python, Java, C#](https://leetcode.com/problems/find-the-integer-added-to-array-i/solutions/7206817/optimal-simple-solution-beats-100-by-ata-c6ex/) |
 | 3146 | Permutation Difference between Two Strings | Easy | [Python](https://leetcode.com/problems/permutation-difference-between-two-strings/solutions/7177311/easy-solution-by-atamalu123-bkm5/) |
 | 3151 | Special Array I | Easy | [Python, Java, C#](https://leetcode.com/problems/special-array-i/solutions/7206824/simple-optimal-solution-beats-100-in-pyt-o5b4/) |
+| 3162 | Find the Number of Good Pairs I | Easy | [Python, Java, C#, C, C++, JavaScript, TypeScript](https://leetcode.com/problems/find-the-number-of-good-pairs-i/solutions/7226836/easy-solution-in-many-languages-by-atama-0ccu/) |
 | 3168 | Minimum Number of Chairs in a Waiting Room | Easy | [Python](https://leetcode.com/problems/minimum-number-of-chairs-in-a-waiting-room/solutions/7180377/simple-intuitive-python-solution-by-atam-wgqj/) |
 | 3232 | Find if Digit Game Can Be Won | Easy | [Python, Java, C#](https://leetcode.com/problems/find-if-digit-game-can-be-won/solutions/7197310/count-single-and-double-digits-beats-100-tpgi/) |
 | 3242 | Design Neighbor Sum Service | Easy | [Python, Java, C#](https://leetcode.com/problems/design-neighbor-sum-service/solutions/7221897/pre-computation-with-o1-time-sum-methods-1scj/) |
