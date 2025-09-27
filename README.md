@@ -32,6 +32,7 @@
 | 206 | Reverse Linked List | Easy | [Python, Java, C#, C++, JavaScript, TypeScript](https://leetcode.com/problems/reverse-linked-list/solutions/7215520/easiest-optimal-solution-beats-100/) |
 | 215 | Kth Largest Element in an Array | Medium | [Python](https://leetcode.com/problems/kth-largest-element-in-an-array/solutions/7190362/2-solutions-1-sort-and-heap-by-atamalu12-smi0/)
 | 217 | Contains Duplicate | Easy | [Python, Java, C#](https://leetcode.com/problems/contains-duplicate/solutions/7190959/2-solutions-hashset-and-sorting-by-atama-8lkp/) |
+| 219 | Contains Duplicate II | Easy | [Python, Java, C#](https://leetcode.com/problems/contains-duplicate-ii/solutions/7226952/optimal-solution-in-python-java-c-by-ata-vm1h/) |
 | 242 | Valid Anagram | Easy | [Python, Java, C#](https://leetcode.com/problems/valid-anagram/solutions/7191104/2-solutions-counting-and-sorting-by-atam-pexy/) |
 | 283 | Move Zeroes | Easy | [Python, Java, C#](https://leetcode.com/problems/move-zeroes/solutions/7194401/simple-intuitive-optimal-solution-in-pyt-bcwk/) |
 | 344 | Reverse String | Easy | [Python, Java, C#](https://leetcode.com/problems/reverse-string/solutions/7194406/easy-optimal-solution-in-python-java-c-b-iinr/) |
@@ -130,6 +131,7 @@
 | 2114 | Maximum Number of Words Found in Sentences | Easy | [Python](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/solutions/7177396/simple-counting-by-atamalu123-xem5/) |
 | 2119 | A Number After a Double Reversal | Easy | [Python, Java, C#, C, C++, Javascript, TypeScript](https://leetcode.com/problems/a-number-after-a-double-reversal/solutions/7204287/1-liner-optimal-in-different-languages-b-qu9l/) |
 | 2124 | Check if All A's Appear Before All B's | Easy | [Python](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/solutions/7180556/keep-track-of-seen-0ms-beats-100-by-atam-tftm/) |
+| 2138 | Divide a String Intro Groups of Size K | Easy | [Python, Java, C#](https://leetcode.com/problems/divide-a-string-into-groups-of-size-k/solutions/7226940/optimal-solution-in-python-java-c-beats-vw7z4/) |
 | 2144 | Minimum Cost of Buying Candies With Discount | Easy | [Python](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/solutions/7224544/1-liner-in-python-by-atamalu123-xfdo/) |
 | 2148 | Count Elements With Strictly Smaller and Greater Elements | Easy | [Python, Java, C#](https://leetcode.com/problems/count-elements-with-strictly-smaller-and-greater-elements/solutions/7204382/optimal-ono1-solution-in-python-java-c-b-9zj9/) |
 | 2169 | Count Operations to Obtain Zero | Easy | [Python, Java, C#, C, C++, JavaScript, TypeScript](https://leetcode.com/problems/count-operations-to-obtain-zero/solutions/7224189/easy-solution-in-python-java-c-c-c-types-dsa3/) |
@@ -202,6 +204,7 @@
 | 3151 | Special Array I | Easy | [Python, Java, C#](https://leetcode.com/problems/special-array-i/solutions/7206824/simple-optimal-solution-beats-100-in-pyt-o5b4/) |
 | 3162 | Find the Number of Good Pairs I | Easy | [Python, Java, C#, C, C++, JavaScript, TypeScript](https://leetcode.com/problems/find-the-number-of-good-pairs-i/solutions/7226836/easy-solution-in-many-languages-by-atama-0ccu/) |
 | 3168 | Minimum Number of Chairs in a Waiting Room | Easy | [Python](https://leetcode.com/problems/minimum-number-of-chairs-in-a-waiting-room/solutions/7180377/simple-intuitive-python-solution-by-atam-wgqj/) |
+| 3210 | Find the Encrypted String | Easy | [Python](https://leetcode.com/problems/find-the-encrypted-string/solutions/7226900/1-liner-optimal-solution-by-atamalu123-dad6/) |
 | 3232 | Find if Digit Game Can Be Won | Easy | [Python, Java, C#](https://leetcode.com/problems/find-if-digit-game-can-be-won/solutions/7197310/count-single-and-double-digits-beats-100-tpgi/) |
 | 3242 | Design Neighbor Sum Service | Easy | [Python, Java, C#](https://leetcode.com/problems/design-neighbor-sum-service/solutions/7221897/pre-computation-with-o1-time-sum-methods-1scj/) |
 | 3248 | Snake in Matrix | Easy | [Python](https://leetcode.com/problems/snake-in-matrix/solutions/7180257/0ms-beats-100-by-atamalu123-5nd4/) |
@@ -210,6 +213,7 @@
 | 3300 | Minimum Element After Replacement With Digit Sum | Easy | [Python](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/solutions/7206858/optimal-solution-in-python-by-atamalu123-yj14/) |
 | 3340 | Check Balanced String | Easy | [Python](https://leetcode.com/problems/check-balanced-string/solutions/7180294/0ms-beats-100-by-atamalu123-ea4m/) |
 | 3392 | Count Subarrays of Length Three with a Condition | Easy | [Python, Java, C#](https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition/solutions/7206865/easy-optimal-solution-in-python-java-c-b-t4p5/) |
+| 3461 | Check If Digits Are Equal in String After Operations I | Easy | [Python](https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-i/solutions/7226893/using-simulation-by-atamalu123-lx6x/) |
 | 3467 | Transform Array by Parity | Easy | [Python, Java, C#](https://leetcode.com/problems/transform-array-by-parity/solutions/7206883/optimal-on-solution-beats-100-by-atamalu-xhhr/) |
 | 3487 | Maximum Unique Subarray Sum After Deletion | Easy | [Python, Java, C#, C++, JavaScript, TypeScript](https://leetcode.com/problems/maximum-unique-subarray-sum-after-deletion/solutions/7221354/intuitive-true-one-pass-optimal-solution-beats-100/) |
 | 3498 | Reverse Degree of a String | Easy | [Python](https://leetcode.com/problems/reverse-degree-of-a-string/solutions/7177224/dictionary-lookup-by-atamalu123-7ule/) |
