@@ -52,6 +52,7 @@
 | 771 | Jewels and Stones | Easy | [Python, Java, C#](https://leetcode.com/problems/jewels-and-stones/solutions/7197629/using-hashset-in-python-java-c-beats-100-41cz/) |
 | 804 | Unique Morse Code Words | Easy | [Python](https://leetcode.com/problems/unique-morse-code-words/solutions/7180084/0ms-beats-100-by-atamalu123-k8cv/) |
 | 832 | Flipping an Image | Easy | [Python](https://leetcode.com/problems/flipping-an-image/solutions/7180881/using-helper-functions-by-atamalu123-5dc8/) |
+| 867 | Transpose Matrix | Easy | [Python](https://leetcode.com/problems/transpose-matrix/solutions/7227091/1-line-in-python-by-atamalu123-fhk8/) |
 | 876 | Middle of the Linked List | Easy | [Python, Java, C#](https://leetcode.com/problems/middle-of-the-linked-list/solutions/7197687/2-solutions-optimal-beats-100-by-atamalu-ddpu/) |
 | 905 | Sort Array By Parity | Easy | [Python, Java, C#](https://leetcode.com/problems/sort-array-by-parity/solutions/7197712/simple-solution-beats-100-0ms-by-atamalu-a4aq/) |
 | 961 | N-Repeated Element in Size 2N Array | Easy | [Python](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/solutions/7184026/most-intuitive-way-using-a-counter-by-at-ks1t/) | 
@@ -110,6 +111,7 @@
 | 1848 | Minimum Distance to the Target Element | Easy | [Python, Java, C#](https://leetcode.com/problems/minimum-distance-to-the-target-element/solutions/7203798/optimal-solution-in-python-java-c-beats-100-0ms/) |
 | 1854 | Maximum Population Year | Easy | [Python](https://leetcode.com/problems/maximum-population-year/solutions/7203838/optimal-solution-using-frequency-diction-nftg/) |
 | 1876 | Substrings of Size Three with Distinct Characters | Easy | [Python](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/solutions/7184156/worlds-easiest-sliding-window-problem-be-lv1k/) |
+| 1897 | Redistribute Characters to Make All Strings Equal | Easy | [Python, Java, C#, C++, JavaScript, TypeScript](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/solutions/7227131/using-a-frequency-counter-by-atamalu123-y8it/) |
 | 1920 | Build Array from Permutation | Easy | [Python, Java, C#, C, C++, JavaScript, TypeScript](https://leetcode.com/problems/build-array-from-permutation/solutions/7224324/easy-solution-in-python-java-c-c-c-javas-u162/) |
 | 1929 | Concatenation of Array | Easy | [Python, Java, C#](https://leetcode.com/problems/concatenation-of-array/solutions/7203895/as-easy-as-it-looks-in-python-java-c-by-7csji/) |
 | 1935 | Maximum Number of Words You Can Type | Easy | [Python](https://leetcode.com/problems/maximum-number-of-words-you-can-type/solutions/7203910/optimal-solution-in-python-beats-100-0ms-y5d0/) |
@@ -175,7 +177,7 @@
 | 2785 | Sort Vowels in a String | Medium | [Python](https://leetcode.com/problems/sort-vowels-in-a-string/solutions/7180334/intuitive-on-solution-using-python-by-at-4wp5/) |
 | 2798 | Number of Employees Who Met the Target | Easy | [Python, Java, C#](https://leetcode.com/problems/number-of-employees-who-met-the-target/solutions/7194435/easiest-problem-on-leetcode-by-atamalu12-3gv2/) |
 | 2810 | Faulty Keyboard | Easy | [Python](https://leetcode.com/problems/faulty-keyboard/solutions/7180357/construct-string-as-you-go-0ms-beats-100-qpfh/) |
-| 2828 | Check if a String Is an Acronym of Words | Easy | [Python](https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words/solutions/7180122/0ms-beats-100-2-approaches-by-atamalu123-es6z/) |
+| 2828 | Check if a String Is an Acronym of Words | Easy | [Python, Java, C#, C++, JavaScript, TypeScript](https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words/solutions/7227200/optimal-solution-beats-100-by-atamalu123-lvvn/) |
 | 2877 | Create a DataFrame from List | Easy | [Python](https://leetcode.com/problems/create-a-dataframe-from-list/solutions/7206757/1-line-by-atamalu123-cavw/) |
 | 2878 | Get the Size of a DataFrame | Easy | [Python](https://leetcode.com/problems/get-the-size-of-a-dataframe/solutions/7206756/1-line-by-atamalu123-6ndx/) |
 | 2879 | Display the First Three Rows | Easy | [Python](https://leetcode.com/problems/display-the-first-three-rows/solutions/7206759/1-line-by-atamalu123-l3im/) |
