@@ -135,6 +135,7 @@
 | 2169 | Count Operations to Obtain Zero | Easy | [Python, Java, C#, C, C++, JavaScript, TypeScript](https://leetcode.com/problems/count-operations-to-obtain-zero/solutions/7224189/easy-solution-in-python-java-c-c-c-types-dsa3/) |
 | 2176 | Count Equal and Divisible Pairs in an Array | Easy | [Python, Java, C#](https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/solutions/7206217/optimal-solution-in-python-java-c-beats-cwiel/) |
 | 2185 | Counting Words With a Given Prefix | Easy | [Python, Java, C#](https://leetcode.com/problems/counting-words-with-a-given-prefix/solutions/7206247/easy-optimal-solution-in-python-java-c-b-3iq8/) |
+| 2194 | Cells in a Range on an Excel Sheet | Easy | [Python, Java, C#, JavaScript, TypeScript](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/solutions/7226788/optimal-solution-in-python-java-c-javasc-lztu/) |
 | 2215 | Find the Difference of Two Arrays | Easy | [Python, Java, C#](https://leetcode.com/problems/find-the-difference-of-two-arrays/solutions/7206304/easy-optimal-solution-in-python-java-c-b-si1h/) |
 | 2235 | Add Two Integers | Easy | [Python, Java, C#, C, C++, JavaScript, TypeScript](https://leetcode.com/problems/add-two-integers/solutions/7206324/wow-best-solution/) |
 | 2239 | Find Closest Number to Zero | Easy | [Python, Java, C#](https://leetcode.com/problems/find-closest-number-to-zero/solutions/7206355/easy-optimal-solution-in-python-java-c-b-ukjq/) |
@@ -150,6 +151,7 @@
 | 2441 | Largest Positive Integer That Exists With Its Negative | Easy | [Python](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/solutions/7184302/on-python-using-set-by-atamalu123-8glp/) |
 | 2469 | Convert the Temperature | Easy | [Python, Java, C#, C++, JavaScript, TypeScript](https://leetcode.com/problems/convert-the-temperature/solutions/7206568/simple-math-by-atamalu123-f9z9/) |
 | 2496 | Maximum Value of a String in an Array | Easy | [Python](https://leetcode.com/problems/maximum-value-of-a-string-in-an-array/solutions/7180524/simple-no-extra-space-0ms-beats-100-by-a-iz5f/) |
+| 2520 | Count the Digits That Divide a Number | Easy | [Python, Java, C#, C, C++, JavaScript, TypeScript](https://leetcode.com/problems/count-the-digits-that-divide-a-number/solutions/7226800/optimal-solution-with-follow-up-question-eaqw/) |
 | 2553 | Separate the Digits in an Array | Easy | [Python](https://leetcode.com/problems/separate-the-digits-in-an-array/solutions/7181087/using-stack-in-python-by-atamalu123-sh8s/) |
 | 2678 | Number of Seniors Citizens | Easy | [Python](https://leetcode.com/problems/number-of-senior-citizens/solutions/7180308/simple-indexing-0ms-beats-100-by-atamalu-aywx/) |
 | 2535 | Difference Between Element Sum and Digit Sum of an Array | Easy | [Python, Java, C#](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/description/) |
@@ -190,6 +192,7 @@
 | 3019 | Number of Changing Keys | Easy | [Python, Java, C#](https://leetcode.com/problems/number-of-changing-keys/solutions/7196856/one-pass-optimal-solution-in-python-java-svk7/) |
 | 3028 | Ant on the Boundary | Easy | [Python, Java, C#, C, C++, JavaScript, TypeScript](https://leetcode.com/problems/ant-on-the-boundary/solutions/7224594/optimal-solution-beats-100-in-python-jav-0w8q/) |
 | 3046 | Split the Array | Easy | [Python, Java, C#](https://leetcode.com/problems/split-the-array/solutions/7206790/easy-optimal-solution-in-python-java-c-b-0nmw/) |
+| 3065 | Minimum Operations to Exceed Threshold Value I | Easy | [Python, Java, C#, C, C++, JavaScript, TypeScript](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i/solutions/7226769/what-the-question-is-really-asking-beats-318v/) |
 | 3099 | Harshad Number | Easy | [Python, Java, C#](https://leetcode.com/problems/harshad-number/solutions/7206795/optimal-solution-in-python-java-c-beats-dbypf/) |
 | 3105 | Longest Strictly Increasing or Strictly Decreasing Subarray | Easy | [Python, Java, C#](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/solutions/7206808/one-pass-easy-optimal-solution-beats-100-58d6/) |
 | 3110 | Score of a String | Easy | [Python, Java, C#](https://leetcode.com/problems/score-of-a-string/solutions/7206815/optimal-solution-beats-100-in-python-jav-jrdx/) |
