@@ -74,6 +74,7 @@
 | 1323 | Maximum 69 Number | Easy | [Python, Java, C#](https://leetcode.com/problems/maximum-69-number/solutions/7203367/without-string-conversion-beats-100-by-a-a6xq/) |
 | 1331 | Rank Transform of an Array | Easy | [Python](https://leetcode.com/problems/rank-transform-of-an-array/solutions/7183759/sorting-and-hashmap-python-solution-by-a-9gbo/) |
 | 1342 | Number of Steps to Reduce a Number to Zero | Easy | [Python, Java, C#](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/solutions/7203489/simulation-beats-100-by-atamalu123-omv6/) |
+| 1346 | Check If N and Its Double Exist | Easy | [Python, Java, C#](https://leetcode.com/problems/check-if-n-and-its-double-exist/solutions/7234927/optimal-solution-using-hashset-by-atamal-vqxm/) |
 | 1351 | Count Negative Numbers in a Sorted Matrix | Easy | [Python, Java, C#](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/solutions/7203528/python-java-c-beats-100-by-atamalu123-kamr/) |
 | 1374 | Generate a String With Characters That Have Odd Counts | Easy | [Python, Java, C#](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/solutions/7234895/optimal-solution-in-python-java-c-beats-kgbxk/) |
 | 1394 | Find Lucky Integer in an Array | Easy | [Python, Java, C#](https://leetcode.com/problems/find-lucky-integer-in-an-array/solutions/7203565/using-frequency-hashmap-beats-100-by-ata-urqf/) |
