@@ -75,6 +75,7 @@
 | 1331 | Rank Transform of an Array | Easy | [Python](https://leetcode.com/problems/rank-transform-of-an-array/solutions/7183759/sorting-and-hashmap-python-solution-by-a-9gbo/) |
 | 1342 | Number of Steps to Reduce a Number to Zero | Easy | [Python, Java, C#](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/solutions/7203489/simulation-beats-100-by-atamalu123-omv6/) |
 | 1351 | Count Negative Numbers in a Sorted Matrix | Easy | [Python, Java, C#](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/solutions/7203528/python-java-c-beats-100-by-atamalu123-kamr/) |
+| 1374 | Generate a String With Characters That Have Odd Counts | Easy | [Python, Java, C#](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/solutions/7234895/optimal-solution-in-python-java-c-beats-kgbxk/) |
 | 1394 | Find Lucky Integer in an Array | Easy | [Python, Java, C#](https://leetcode.com/problems/find-lucky-integer-in-an-array/solutions/7203565/using-frequency-hashmap-beats-100-by-ata-urqf/) |
 | 1426 | Counting Elements | Easy | [Python, Java, C#](https://leetcode.com/problems/counting-elements/solutions/7203593/optimal-solution-using-hashset-beats-100-oknd/) |
 | 1431 | Kids With the Greatest Number of Candies | Easy | [Python](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/solutions/7180602/0ms-beats-100-by-atamalu123-fbwb/) |
@@ -134,6 +135,7 @@
 | 2114 | Maximum Number of Words Found in Sentences | Easy | [Python](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/solutions/7177396/simple-counting-by-atamalu123-xem5/) |
 | 2119 | A Number After a Double Reversal | Easy | [Python, Java, C#, C, C++, Javascript, TypeScript](https://leetcode.com/problems/a-number-after-a-double-reversal/solutions/7204287/1-liner-optimal-in-different-languages-b-qu9l/) |
 | 2124 | Check if All A's Appear Before All B's | Easy | [Python](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/solutions/7180556/keep-track-of-seen-0ms-beats-100-by-atam-tftm/) |
+| 2133 | Check if Every Row and Column Contains all Numbers | Easy | [Python, Java, C#](https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers/solutions/7234874/one-pass-optimal-solution-using-hashsets-iwg5/) |
 | 2138 | Divide a String Intro Groups of Size K | Easy | [Python, Java, C#](https://leetcode.com/problems/divide-a-string-into-groups-of-size-k/solutions/7226940/optimal-solution-in-python-java-c-beats-vw7z4/) |
 | 2144 | Minimum Cost of Buying Candies With Discount | Easy | [Python](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/solutions/7224544/1-liner-in-python-by-atamalu123-xfdo/) |
 | 2148 | Count Elements With Strictly Smaller and Greater Elements | Easy | [Python, Java, C#](https://leetcode.com/problems/count-elements-with-strictly-smaller-and-greater-elements/solutions/7204382/optimal-ono1-solution-in-python-java-c-b-9zj9/) |
