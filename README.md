@@ -78,6 +78,7 @@
 | 1351 | Count Negative Numbers in a Sorted Matrix | Easy | [Python, Java, C#](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/solutions/7203528/python-java-c-beats-100-by-atamalu123-kamr/) |
 | 1374 | Generate a String With Characters That Have Odd Counts | Easy | [Python, Java, C#](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/solutions/7234895/optimal-solution-in-python-java-c-beats-kgbxk/) |
 | 1394 | Find Lucky Integer in an Array | Easy | [Python, Java, C#](https://leetcode.com/problems/find-lucky-integer-in-an-array/solutions/7203565/using-frequency-hashmap-beats-100-by-ata-urqf/) |
+| 1413 | Minimum Value to Get Positive Step by Step Sum | Easy | [Python, Java, C#, C, C++, JavaScript, TypeScript](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/solutions/7234979/optimal-on-solution-beats-100-by-atamalu-u6wt/) |
 | 1426 | Counting Elements | Easy | [Python, Java, C#](https://leetcode.com/problems/counting-elements/solutions/7203593/optimal-solution-using-hashset-beats-100-oknd/) |
 | 1431 | Kids With the Greatest Number of Candies | Easy | [Python](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/solutions/7180602/0ms-beats-100-by-atamalu123-fbwb/) |
 | 1446 | Consecutive Characters | Easy | [Python, Java, C#](https://leetcode.com/problems/consecutive-characters/solutions/7203621/simple-solution-in-java-python-c-by-atam-fqrc/) |
@@ -101,6 +102,7 @@
 | 1684 | Count the Number of Consistent Strings | Easy | [Python, Java](https://leetcode.com/problems/count-the-number-of-consistent-strings/solutions/7177034/using-hashset-by-atamalu123-gtqc/) |
 | 1704 | Determine if String Halves Are Alike | Easy | [Python](https://leetcode.com/problems/determine-if-string-halves-are-alike/solutions/7180387/simplest-python-solution-0ms-beats-100-b-cd61/) |
 | 1732 | Find the Highest Altitude | Easy | [Python](https://leetcode.com/problems/find-the-highest-altitude/solutions/7180780/beats-100-by-atamalu123-hna3/) |
+| 1736 | Latest Time by Replacing Hidden Digits | Easy | [Python, Java, C#](https://leetcode.com/problems/latest-time-by-replacing-hidden-digits/solutions/7234949/optimal-solution-in-python-java-c-beats-gnhva/) |
 | 1748 | Sum of Unique Elements | Easy | [Python, Java, C#](https://leetcode.com/problems/sum-of-unique-elements/solutions/7203765/using-hashmap-in-python-java-c-beats-100-shih/) |
 | 1762 | Buildings With an Ocean View | Medium | [Python, Java, C#, C++, JavaScript, TypeScript](https://leetcode.com/problems/buildings-with-an-ocean-view/solutions/7221165/optimal-solution-ono1-beats-100-by-atama-psty/) |
 | 1768 | Merge Strings Alternately | Easy | [Python](https://leetcode.com/problems/merge-strings-alternately/solutions/7180164/most-intuitive-two-pointers-solution-by-3t9wm/) |
