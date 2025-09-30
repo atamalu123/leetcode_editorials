@@ -65,6 +65,7 @@
 | 1133 | Largest Unique Number | Easy | [Python, Java, C#](https://leetcode.com/problems/largest-unique-number/solutions/7197907/using-hashmap-and-counting-in-python-jav-lfaz/) |
 | 1160 | Find Words That Can Be Formed by Characters | Easy | [Python](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/solutions/7197955/using-counting-dictionaries-in-python-ja-ctra/) |
 | 1165 | Single-Row Keyboard | Easy | [Python](https://leetcode.com/problems/single-row-keyboard/solutions/7177268/use-dictionary-for-lookup-by-atamalu123-d39w/) |
+| 1189 | Maximum Number of Balloons | Easy | [Python, Java, C#](https://leetcode.com/problems/maximum-number-of-balloons/solutions/7235006/optimal-one-pass-solution-beats-100-by-a-jjy0/) |
 | 1207 | Unique Number of Occurrences | Easy | [Python](https://leetcode.com/problems/unique-number-of-occurrences/solutions/7183963/hashmap-and-hashset-beats-100-0ms-by-ata-wwqz/) | 
 | 1213 | Intersection of Three Sorted Arrays | Easy | [Python](https://leetcode.com/problems/intersection-of-three-sorted-arrays/solutions/7183921/using-hashmap-by-atamalu123-7f6w/) |
 | 1249 | Minimum Remove to Make Valid Parentheses | Medium | [Python, Java, C#](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/solutions/7215145/intuitive-optimal-on-solution-in-python-t0x7f/) |
@@ -107,6 +108,7 @@
 | 1762 | Buildings With an Ocean View | Medium | [Python, Java, C#, C++, JavaScript, TypeScript](https://leetcode.com/problems/buildings-with-an-ocean-view/solutions/7221165/optimal-solution-ono1-beats-100-by-atama-psty/) |
 | 1768 | Merge Strings Alternately | Easy | [Python](https://leetcode.com/problems/merge-strings-alternately/solutions/7180164/most-intuitive-two-pointers-solution-by-3t9wm/) |
 | 1773 | Count Items Matching a Rule | Easy | [Python](https://leetcode.com/problems/count-items-matching-a-rule/solutions/7180681/nested-ifs-in-python-by-atamalu123-gkax/) |
+| 1784 | Check if Binary String Has at Most One Segment of Ones | Easy | [Python, Java, C#, C++](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/solutions/7235173/simple-optimal-solution-beats-100-in-pyt-mzs7/) |
 | 1800 | Maximum Ascending Subarray Sum | Easy | [Python, Java, C#, C, C++, JavaScript, TypeScript](https://leetcode.com/problems/maximum-ascending-subarray-sum/solutions/7224196/easy-optimal-solution-beats-100-in-pytho-0o8e/) |
 | 1816 | Truncate Sentence | Easy | [Python](https://leetcode.com/problems/truncate-sentence/solutions/7177544/0ms-beats-100-by-atamalu123-f42k/) |
 | 1822 | Sign of the Product of an Array | Easy | [Python, Java, C#](https://leetcode.com/problems/sign-of-the-product-of-an-array/solutions/7197138/optimal-solution-in-python-java-c-beats-uxr27/) |
@@ -226,11 +228,13 @@
 | 3467 | Transform Array by Parity | Easy | [Python, Java, C#](https://leetcode.com/problems/transform-array-by-parity/solutions/7206883/optimal-on-solution-beats-100-by-atamalu-xhhr/) |
 | 3487 | Maximum Unique Subarray Sum After Deletion | Easy | [Python, Java, C#, C++, JavaScript, TypeScript](https://leetcode.com/problems/maximum-unique-subarray-sum-after-deletion/solutions/7221354/intuitive-true-one-pass-optimal-solution-beats-100/) |
 | 3498 | Reverse Degree of a String | Easy | [Python](https://leetcode.com/problems/reverse-degree-of-a-string/solutions/7177224/dictionary-lookup-by-atamalu123-7ule/) |
+| 3512 | Minimum Operations to Make Array Sum Divisible by k | Easy | [Python, Java, C#, C, C++, JavaScript, TypeScript](https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k/solutions/7235092/almost-like-cheating-beats-100-by-atamal-bwzh/) |
 | 3516 | Find Closest Person | Easy | [Python, Java, C#](https://leetcode.com/problems/find-closest-person/solutions/7206890/easy-solution-by-atamalu123-5sjk/) |
 | 3541 | Find Most Frequent Vowel and Consonant | Easy | [Python](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/solutions/7177196/two-solutions-one-slightly-faster-by-ata-gw7m/) |
 | 3581 | Count Odd Letters from Number | Easy | [Python](https://leetcode.com/problems/count-odd-letters-from-number/solutions/7177691/using-a-dictionary-and-logn-digit-extrac-1so3/) |
 | 3612 | Process String with Special Operations I | Medium | [Python, Java, C#, C++](https://leetcode.com/problems/process-string-with-special-operations-i/solutions/7224447/simulation-with-follow-up-question-beats-4oa4/) |
 | 3667 | Sort Array by Absolute Value | Easy | [Python](https://leetcode.com/problems/sort-array-by-absolute-value/solutions/7206913/beats-100-by-atamalu123-mn31/) |
+| 3668 | Restore Finishing Order | Easy | [Python, Java, C#, C++](https://leetcode.com/problems/restore-finishing-order/solutions/7235135/optimal-solution-using-hashset-beats-100-iucu/) |
 | 3682 | Minimum Index Sum of Common Elements | Medium | [Python, Java, C#](https://leetcode.com/problems/minimum-index-sum-of-common-elements/solutions/7194391/simple-hashmap-in-python-java-c-beats-10-m2nr/) |
 | 3683 | Earliest Time to Finish One Task | Easy | [Python, Java, C#](https://leetcode.com/problems/earliest-time-to-finish-one-task/solutions/7206915/optimal-1-liner-in-python-by-atamalu123-kh9i/) |
 
