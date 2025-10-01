@@ -161,10 +161,13 @@
 | 2395 | Find Subarrays With Equal Sum | Easy | [Python, Java, C#](https://leetcode.com/problems/find-subarrays-with-equal-sum/solutions/7206525/optimal-easy-solution-in-python-java-c-b-fzpt/) |
 | 2404 | Most Frequent Even Element | Easy | [Python, Java, C#](https://leetcode.com/problems/most-frequent-even-element/solutions/7206548/optimal-solution-in-python-java-c/) |
 | 2418 | Sort the People | Easy | [Python](https://leetcode.com/problems/sort-the-people/solutions/7183809/sorting-and-hashmap-0ms-beats-100-by-ata-hbv1/) |
+| 2432 | The Employee That Worked on the Longest Task | Easy | [Python, Java, C#, C++, JavaScript, TypeScript](https://leetcode.com/problems/the-employee-that-worked-on-the-longest-task/solutions/7237822/easy-optimal-solution-beats-100-by-atama-wrrl/) |
 | 2441 | Largest Positive Integer That Exists With Its Negative | Easy | [Python](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/solutions/7184302/on-python-using-set-by-atamalu123-8glp/) |
 | 2469 | Convert the Temperature | Easy | [Python, Java, C#, C++, JavaScript, TypeScript](https://leetcode.com/problems/convert-the-temperature/solutions/7206568/simple-math-by-atamalu123-f9z9/) |
 | 2496 | Maximum Value of a String in an Array | Easy | [Python](https://leetcode.com/problems/maximum-value-of-a-string-in-an-array/solutions/7180524/simple-no-extra-space-0ms-beats-100-by-a-iz5f/) |
+| 2506 | Count Pairs of Similar Strings | Easy | [Python, Java, C#](https://leetcode.com/problems/count-pairs-of-similar-strings/solutions/7237877/2-counters-1-solution-by-atamalu123-q7ru/) |
 | 2520 | Count the Digits That Divide a Number | Easy | [Python, Java, C#, C, C++, JavaScript, TypeScript](https://leetcode.com/problems/count-the-digits-that-divide-a-number/solutions/7226800/optimal-solution-with-follow-up-question-eaqw/) |
+| 2540 | Minimum Common Value | Easy | [Python, Java, C#](https://leetcode.com/problems/minimum-common-value/solutions/7237754/using-hashset-in-python-java-c-by-atamal-z6fl/) |
 | 2553 | Separate the Digits in an Array | Easy | [Python](https://leetcode.com/problems/separate-the-digits-in-an-array/solutions/7181087/using-stack-in-python-by-atamalu123-sh8s/) |
 | 2678 | Number of Seniors Citizens | Easy | [Python](https://leetcode.com/problems/number-of-senior-citizens/solutions/7180308/simple-indexing-0ms-beats-100-by-atamalu-aywx/) |
 | 2535 | Difference Between Element Sum and Digit Sum of an Array | Easy | [Python, Java, C#](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/description/) |
@@ -185,6 +188,8 @@
 | 2798 | Number of Employees Who Met the Target | Easy | [Python, Java, C#](https://leetcode.com/problems/number-of-employees-who-met-the-target/solutions/7194435/easiest-problem-on-leetcode-by-atamalu12-3gv2/) |
 | 2810 | Faulty Keyboard | Easy | [Python](https://leetcode.com/problems/faulty-keyboard/solutions/7180357/construct-string-as-you-go-0ms-beats-100-qpfh/) |
 | 2828 | Check if a String Is an Acronym of Words | Easy | [Python, Java, C#, C++, JavaScript, TypeScript](https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words/solutions/7227200/optimal-solution-beats-100-by-atamalu123-lvvn/) |
+| 2839 | Check if Strings Can be Made Equal With Operations I | Easy | [Python](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i/solutions/7237908/1-liner-in-python-by-atamalu123-d2m4/) |
+| 2869 | Minimum Operations to Collect Elements | Easy | [Python, Java, C#, C++](https://leetcode.com/problems/minimum-operations-to-collect-elements/solutions/7237786/optimal-easy-solution-beats-100-by-atama-x1jx/) |
 | 2877 | Create a DataFrame from List | Easy | [Python](https://leetcode.com/problems/create-a-dataframe-from-list/solutions/7206757/1-line-by-atamalu123-cavw/) |
 | 2878 | Get the Size of a DataFrame | Easy | [Python](https://leetcode.com/problems/get-the-size-of-a-dataframe/solutions/7206756/1-line-by-atamalu123-6ndx/) |
 | 2879 | Display the First Three Rows | Easy | [Python](https://leetcode.com/problems/display-the-first-three-rows/solutions/7206759/1-line-by-atamalu123-l3im/) |
