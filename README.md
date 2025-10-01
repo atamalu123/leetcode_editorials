@@ -46,6 +46,7 @@
 | 551 | Student Attendence Record I | Easy | [Python, Java, C#](https://leetcode.com/problems/student-attendance-record-i/solutions/7197549/optimal-approach-python-java-c-beats-100-0ms/) |
 | 557 | Reverse Words in a String III | Easy | [Python, Java](https://leetcode.com/problems/reverse-words-in-a-string-iii/solutions/7176820/two-pointers-solution-by-atamalu123-kx4q/) |
 | 560 | Subarray Sum Equals K | Medium | [Java](https://leetcode.com/problems/subarray-sum-equals-k/solutions/7190324/space-optimal-solution-in-java-by-atamal-bonu/) |
+| 561 | Array Partition | Easy | [Python, Java, C#](https://leetcode.com/problems/array-partition/solutions/7240359/most-scalable-solution-simple-by-atamalu-mske/) |
 | 657 | Robot Return to Origin | Easy | [Python, Java, C#](https://leetcode.com/problems/robot-return-to-origin/solutions/7197274/easy-simulation-in-python-java-c-by-atam-zqp7/) |
 | 682 | Baseball Game | Easy | [Python, Java, C#](https://leetcode.com/problems/baseball-game/solutions/7197230/using-stack-in-python-java-c-beats-100-0-fmez/) |
 | 709 | To Lower Case | Easy | [Python, Java, C#](https://leetcode.com/problems/to-lower-case/solutions/7196797/is-this-the-easiest-leetcode-problem-by-0p427/) |
@@ -157,6 +158,7 @@
 | 2255 | Count Prefixes of a Given String | Easy | [Python](https://leetcode.com/problems/count-prefixes-of-a-given-string/solutions/7180508/using-startswith-0ms-beats-100-by-atamal-ke3x/) |
 | 2264 | Largest 3-Same-Digit Number in String | Easy | [Python, Java, C#](https://leetcode.com/problems/largest-3-same-digit-number-in-string/solutions/7206404/easy-optimal-solution-in-python-java-c-b-lff5/) |
 | 2278 | Percentage of Letter in String | Easy | [Python, Java, C#](https://leetcode.com/problems/percentage-of-letter-in-string/solutions/7206437/easy-optimal-solution-in-python-java-c-b-fnno/) |
+| 2279 | Maximum Bags With Full Capacity of Rocks | Medium | [Python, Java, C#](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/solutions/7240433/easy-optimal-solution-in-python-java-c/) |
 | 2309 | Greatest English Letter in Upper and Lower Case | Easy | [Python, Java, C#](https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case/solutions/7206469/optimal-solution-in-python-beats-100-by-1wquy/) |
 | 2351 | First Letter to Appear Twice | Easy | [Python, Java, C#](https://leetcode.com/problems/first-letter-to-appear-twice/solutions/7206496/optimal-easy-solution-in-python-java-c-b-rfdz/) |
 | 2363 | Merge Similar Items | Easy | [Python](https://leetcode.com/problems/merge-similar-items/solutions/7184097/using-dictionary-and-sorting-by-atamalu1-mh7v/) |
@@ -172,7 +174,6 @@
 | 2520 | Count the Digits That Divide a Number | Easy | [Python, Java, C#, C, C++, JavaScript, TypeScript](https://leetcode.com/problems/count-the-digits-that-divide-a-number/solutions/7226800/optimal-solution-with-follow-up-question-eaqw/) |
 | 2540 | Minimum Common Value | Easy | [Python, Java, C#](https://leetcode.com/problems/minimum-common-value/solutions/7237754/using-hashset-in-python-java-c-by-atamal-z6fl/) |
 | 2553 | Separate the Digits in an Array | Easy | [Python](https://leetcode.com/problems/separate-the-digits-in-an-array/solutions/7181087/using-stack-in-python-by-atamalu123-sh8s/) |
-| 2678 | Number of Seniors Citizens | Easy | [Python](https://leetcode.com/problems/number-of-senior-citizens/solutions/7180308/simple-indexing-0ms-beats-100-by-atamalu-aywx/) |
 | 2535 | Difference Between Element Sum and Digit Sum of an Array | Easy | [Python, Java, C#](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/description/) |
 | 2586 | Count the Number of Vowel Strings in Range | Easy | [Python, Java, C#](https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range/solutions/7206626/optimal-solution-in-python-java-c-beats-pe0cc/) |
 | 2643 | Row With Maximum Ones | Easy | [Python, Java, C#](https://leetcode.com/problems/row-with-maximum-ones/solutions/7206643/optimal-easy-solution-in-python-java-c-b-ed7o/) |
