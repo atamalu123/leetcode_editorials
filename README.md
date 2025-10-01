@@ -38,6 +38,7 @@
 | 344 | Reverse String | Easy | [Python, Java, C#](https://leetcode.com/problems/reverse-string/solutions/7194406/easy-optimal-solution-in-python-java-c-b-iinr/) |
 | 359 | Logger Rate Limiter | Easy | [Python, Java, C#, C++, JavaScript, TypeScript](https://leetcode.com/problems/logger-rate-limiter/solutions/7221508/scalable-optimal-solution-with-follow-up-ir57/) |
 | 387 | First Unique Character in a String | Easy | [Python, Java, C#](https://leetcode.com/problems/first-unique-character-in-a-string/solutions/7194414/optimal-solution-using-hashmap-in-python-m68a/) |
+| 408 | Valid Word Abbreviation | Easy | [Python, Java, C#, C++](https://leetcode.com/problems/valid-word-abbreviation/solutions/7240126/optimal-intuitive-solution-in-python-bea-ti9b/) |
 | 412 | Fizz Buzz | Easy | [Python, Java, C#](https://leetcode.com/problems/fizz-buzz/solutions/7197395/no-need-to-overcomplicate-just-simulate-lmy6m/) |
 | 448 | Find All Numbers Disappeared in an Array | Easy | [Python, Java, C#](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/solutions/7197465/using-hashset-in-python-java-c-by-atamal-s4wc/) |
 | 485 | Max Consecutive Ones | Easy | [Python, Java, C#](https://leetcode.com/problems/max-consecutive-ones/solutions/7197500/optimal-solution-in-python-java-c-by-ata-4aru/) |
@@ -149,6 +150,7 @@
 | 2185 | Counting Words With a Given Prefix | Easy | [Python, Java, C#](https://leetcode.com/problems/counting-words-with-a-given-prefix/solutions/7206247/easy-optimal-solution-in-python-java-c-b-3iq8/) |
 | 2194 | Cells in a Range on an Excel Sheet | Easy | [Python, Java, C#, JavaScript, TypeScript](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/solutions/7226788/optimal-solution-in-python-java-c-javasc-lztu/) |
 | 2215 | Find the Difference of Two Arrays | Easy | [Python, Java, C#](https://leetcode.com/problems/find-the-difference-of-two-arrays/solutions/7206304/easy-optimal-solution-in-python-java-c-b-si1h/) |
+| 2229 | Check if an Array is Consecutive | Easy | [Python, Java, C#](https://leetcode.com/problems/check-if-an-array-is-consecutive/solutions/7237939/optimal-easy-solution-in-python-java-c-beats-100/) |
 | 2235 | Add Two Integers | Easy | [Python, Java, C#, C, C++, JavaScript, TypeScript](https://leetcode.com/problems/add-two-integers/solutions/7206324/wow-best-solution/) |
 | 2239 | Find Closest Number to Zero | Easy | [Python, Java, C#](https://leetcode.com/problems/find-closest-number-to-zero/solutions/7206355/easy-optimal-solution-in-python-java-c-b-ukjq/) |
 | 2248 | Intersection of Multiple Arrays | Easy | [Python, Java, C#, C, C++, JavaScript, TypeScript](https://leetcode.com/problems/intersection-of-multiple-arrays/solutions/7226873/optimal-solution-without-sorting-and-fol-ox39/) |
@@ -160,6 +162,7 @@
 | 2363 | Merge Similar Items | Easy | [Python](https://leetcode.com/problems/merge-similar-items/solutions/7184097/using-dictionary-and-sorting-by-atamalu1-mh7v/) |
 | 2395 | Find Subarrays With Equal Sum | Easy | [Python, Java, C#](https://leetcode.com/problems/find-subarrays-with-equal-sum/solutions/7206525/optimal-easy-solution-in-python-java-c-b-fzpt/) |
 | 2404 | Most Frequent Even Element | Easy | [Python, Java, C#](https://leetcode.com/problems/most-frequent-even-element/solutions/7206548/optimal-solution-in-python-java-c/) |
+| 2414 | Length of the Longest Alphabetical Continuous Substring | Medium | [Python, Java, C#](https://leetcode.com/problems/length-of-the-longest-alphabetical-continuous-substring/solutions/7240172/problem-simplified-optimal-solution-in-p-9nur/) |
 | 2418 | Sort the People | Easy | [Python](https://leetcode.com/problems/sort-the-people/solutions/7183809/sorting-and-hashmap-0ms-beats-100-by-ata-hbv1/) |
 | 2432 | The Employee That Worked on the Longest Task | Easy | [Python, Java, C#, C++, JavaScript, TypeScript](https://leetcode.com/problems/the-employee-that-worked-on-the-longest-task/solutions/7237822/easy-optimal-solution-beats-100-by-atama-wrrl/) |
 | 2441 | Largest Positive Integer That Exists With Its Negative | Easy | [Python](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/solutions/7184302/on-python-using-set-by-atamalu123-8glp/) |
