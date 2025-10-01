@@ -149,6 +149,7 @@
 | 2169 | Count Operations to Obtain Zero | Easy | [Python, Java, C#, C, C++, JavaScript, TypeScript](https://leetcode.com/problems/count-operations-to-obtain-zero/solutions/7224189/easy-solution-in-python-java-c-c-c-types-dsa3/) |
 | 2176 | Count Equal and Divisible Pairs in an Array | Easy | [Python, Java, C#](https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/solutions/7206217/optimal-solution-in-python-java-c-beats-cwiel/) |
 | 2185 | Counting Words With a Given Prefix | Easy | [Python, Java, C#](https://leetcode.com/problems/counting-words-with-a-given-prefix/solutions/7206247/easy-optimal-solution-in-python-java-c-b-3iq8/) |
+| 2186 | Minimum Number of Steps to Make Two Strings Anagram II | Medium | [Python, Java, C#, C++](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram-ii/solutions/7240538/easy-intuitive-solution-python-java-c-c-2z0nm/) |
 | 2194 | Cells in a Range on an Excel Sheet | Easy | [Python, Java, C#, JavaScript, TypeScript](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/solutions/7226788/optimal-solution-in-python-java-c-javasc-lztu/) |
 | 2215 | Find the Difference of Two Arrays | Easy | [Python, Java, C#](https://leetcode.com/problems/find-the-difference-of-two-arrays/solutions/7206304/easy-optimal-solution-in-python-java-c-b-si1h/) |
 | 2229 | Check if an Array is Consecutive | Easy | [Python, Java, C#](https://leetcode.com/problems/check-if-an-array-is-consecutive/solutions/7237939/optimal-easy-solution-in-python-java-c-beats-100/) |
