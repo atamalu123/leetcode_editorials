@@ -177,6 +177,7 @@
 | 2553 | Separate the Digits in an Array | Easy | [Python](https://leetcode.com/problems/separate-the-digits-in-an-array/solutions/7181087/using-stack-in-python-by-atamalu123-sh8s/) |
 | 2535 | Difference Between Element Sum and Digit Sum of an Array | Easy | [Python, Java, C#](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/description/) |
 | 2586 | Count the Number of Vowel Strings in Range | Easy | [Python, Java, C#](https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range/solutions/7206626/optimal-solution-in-python-java-c-beats-pe0cc/) |
+| 2640 | Find the Score of All Prefixes of an Array | Medium | [Python, Java, C#](https://leetcode.com/problems/find-the-score-of-all-prefixes-of-an-array/solutions/7240711/optimal-solution-beats-100-python-java-c-t6sl/) |
 | 2643 | Row With Maximum Ones | Easy | [Python, Java, C#](https://leetcode.com/problems/row-with-maximum-ones/solutions/7206643/optimal-easy-solution-in-python-java-c-b-ed7o/) |
 | 2651 | Calculate Delayed Arrival Time | Easy | [Python, Java, C#, C, C++, JavaScript, TypeScript](https://leetcode.com/problems/calculate-delayed-arrival-time/solutions/7206650/easy-o1o1-by-atamalu123-sygs/) |
 | 2656 | Maximum Sum With Exactly K Elements | Easy | [Python, Java, C#](https://leetcode.com/problems/maximum-sum-with-exactly-k-elements/solutions/7206669/easy-optimal-solution-in-python-java-c-b-ari9/) |
