@@ -45,7 +45,7 @@
 | 455 | Assign Cookies | Easy | [Python, Java, C#](https://leetcode.com/problems/assign-cookies/solutions/7240744/easy-intuitive-solution-python-java-c-by-hp3n/) |
 | 485 | Max Consecutive Ones | Easy | [Python, Java, C#](https://leetcode.com/problems/max-consecutive-ones/solutions/7197500/optimal-solution-in-python-java-c-by-ata-4aru/) |
 | 500 | Keyboard Row | Easy | [Python](https://leetcode.com/problems/keyboard-row/solutions/7197515/hashmap-beats-100-0ms-by-atamalu123-y3wy/) |
-| 521 | Longest Uncommon Subsequence | [Python, Java, C#, C++](https://leetcode.com/problems/longest-uncommon-subsequence-i/solutions/7241318/1-line-beats-100-python-java-c-c-by-atam-b65l/) |
+| 521 | Longest Uncommon Subsequence | Easy | [Python, Java, C#, C++](https://leetcode.com/problems/longest-uncommon-subsequence-i/solutions/7241318/1-line-beats-100-python-java-c-c-by-atam-b65l/) |
 | 551 | Student Attendence Record I | Easy | [Python, Java, C#](https://leetcode.com/problems/student-attendance-record-i/solutions/7197549/optimal-approach-python-java-c-beats-100-0ms/) |
 | 557 | Reverse Words in a String III | Easy | [Python, Java](https://leetcode.com/problems/reverse-words-in-a-string-iii/solutions/7176820/two-pointers-solution-by-atamalu123-kx4q/) |
 | 560 | Subarray Sum Equals K | Medium | [Java](https://leetcode.com/problems/subarray-sum-equals-k/solutions/7190324/space-optimal-solution-in-java-by-atamal-bonu/) |
