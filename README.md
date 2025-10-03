@@ -74,7 +74,7 @@
 | 1189 | Maximum Number of Balloons | Easy | [Python, Java, C#](https://leetcode.com/problems/maximum-number-of-balloons/solutions/7235006/optimal-one-pass-solution-beats-100-by-a-jjy0/) |
 | 1207 | Unique Number of Occurrences | Easy | [Python](https://leetcode.com/problems/unique-number-of-occurrences/solutions/7183963/hashmap-and-hashset-beats-100-0ms-by-ata-wwqz/) | 
 | 1213 | Intersection of Three Sorted Arrays | Easy | [Python](https://leetcode.com/problems/intersection-of-three-sorted-arrays/solutions/7183921/using-hashmap-by-atamalu123-7f6w/) |
-| 1249 | Minimum Remove to Make Valid Parentheses | Medium | [Python, Java, C#](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/solutions/7215145/intuitive-optimal-on-solution-in-python-t0x7f/) |
+| 1249 | Minimum Remove to Make Valid Parentheses | Medium | [Python, Java, C#, C++, JavaScript](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/solutions/7215145/intuitive-optimal-on-solution-in-python-t0x7f/) |
 | 1281 | Subtract the Product and Sum of Digits of an Integer | Easy | [Python, Java, C#](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/solutions/7197000/extracting-digits-in-python-java-c-beats-1a0w/) |
 | 1295 | Find Numbers with Even Number of Digits | Easy | [Python, Java, C#](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/solutions/7203065/optimal-solution-in-python-java-c-beats-q7m6b/) |
 | 1299 | Replace Elements with Greatest Element on Right Side | Easy | [Python, Java, C#](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/solutions/7203120/optimal-solution-in-java-python-c-beats-73ete/) |
