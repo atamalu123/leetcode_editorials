@@ -239,10 +239,12 @@
 | 3110 | Score of a String | Easy | [Python, Java, C#](https://leetcode.com/problems/score-of-a-string/solutions/7206815/optimal-solution-beats-100-in-python-jav-jrdx/) |
 | 3131 | Find the Integer Added to Array I | Easy | [Python, Java, C#](https://leetcode.com/problems/find-the-integer-added-to-array-i/solutions/7206817/optimal-simple-solution-beats-100-by-ata-c6ex/) |
 | 3146 | Permutation Difference between Two Strings | Easy | [Python](https://leetcode.com/problems/permutation-difference-between-two-strings/solutions/7177311/easy-solution-by-atamalu123-bkm5/) |
+| 3147 | Taking Maximum Energy From the Mystic Dungeon | Medium | [Python](https://leetcode.com/problems/taking-maximum-energy-from-the-mystic-dungeon/solutions/7262886/true-1-liner-in-python-by-atamalu123-9qwp/) |
 | 3151 | Special Array I | Easy | [Python, Java, C#](https://leetcode.com/problems/special-array-i/solutions/7206824/simple-optimal-solution-beats-100-in-pyt-o5b4/) |
 | 3159 | Find Occurrences of an Element in an Array | Medium | [Python, Java, C#, C++](https://leetcode.com/problems/find-occurrences-of-an-element-in-an-array/solutions/7240917/optimal-solution-beats-100-python-java-c-ci1s/) |
 | 3162 | Find the Number of Good Pairs I | Easy | [Python, Java, C#, C, C++, JavaScript, TypeScript](https://leetcode.com/problems/find-the-number-of-good-pairs-i/solutions/7226836/easy-solution-in-many-languages-by-atama-0ccu/) |
 | 3168 | Minimum Number of Chairs in a Waiting Room | Easy | [Python](https://leetcode.com/problems/minimum-number-of-chairs-in-a-waiting-room/solutions/7180377/simple-intuitive-python-solution-by-atam-wgqj/) |
+| 3186 | Maximum Total Damage Without Spell Casting | Medium | [Python, Java, C++, C#](https://leetcode.com/problems/maximum-total-damage-with-spell-casting/solutions/7265639/optimal-solution-in-python-java-c-c-by-a-9ne6/) |
 | 3210 | Find the Encrypted String | Easy | [Python](https://leetcode.com/problems/find-the-encrypted-string/solutions/7226900/1-liner-optimal-solution-by-atamalu123-dad6/) |
 | 3232 | Find if Digit Game Can Be Won | Easy | [Python, Java, C#](https://leetcode.com/problems/find-if-digit-game-can-be-won/solutions/7197310/count-single-and-double-digits-beats-100-tpgi/) |
 | 3242 | Design Neighbor Sum Service | Easy | [Python, Java, C#](https://leetcode.com/problems/design-neighbor-sum-service/solutions/7221897/pre-computation-with-o1-time-sum-methods-1scj/) |
@@ -258,6 +260,7 @@
 | 3498 | Reverse Degree of a String | Easy | [Python](https://leetcode.com/problems/reverse-degree-of-a-string/solutions/7177224/dictionary-lookup-by-atamalu123-7ule/) |
 | 3512 | Minimum Operations to Make Array Sum Divisible by k | Easy | [Python, Java, C#, C, C++, JavaScript, TypeScript](https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k/solutions/7235092/almost-like-cheating-beats-100-by-atamal-bwzh/) |
 | 3516 | Find Closest Person | Easy | [Python, Java, C#](https://leetcode.com/problems/find-closest-person/solutions/7206890/easy-solution-by-atamalu123-5sjk/) |
+| 3539 | Find Sum of Array Product of Magical Sequences | Hard | [Python, Java, C#, C, C++, JavaScript, TypeScript, Go](https://leetcode.com/problems/find-sum-of-array-product-of-magical-sequences/solutions/7268089/optimal-solution-beats-100-in-python-jav-1gpn/) |
 | 3541 | Find Most Frequent Vowel and Consonant | Easy | [Python](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/solutions/7177196/two-solutions-one-slightly-faster-by-ata-gw7m/) |
 | 3581 | Count Odd Letters from Number | Easy | [Python](https://leetcode.com/problems/count-odd-letters-from-number/solutions/7177691/using-a-dictionary-and-logn-digit-extrac-1so3/) |
 | 3612 | Process String with Special Operations I | Medium | [Python, Java, C#, C++](https://leetcode.com/problems/process-string-with-special-operations-i/solutions/7224447/simulation-with-follow-up-question-beats-4oa4/) |
