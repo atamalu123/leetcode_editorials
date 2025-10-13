@@ -169,6 +169,7 @@
 | 2255 | Count Prefixes of a Given String | Easy | [Python](https://leetcode.com/problems/count-prefixes-of-a-given-string/solutions/7180508/using-startswith-0ms-beats-100-by-atamal-ke3x/) |
 | 2264 | Largest 3-Same-Digit Number in String | Easy | [Python, Java, C#](https://leetcode.com/problems/largest-3-same-digit-number-in-string/solutions/7206404/easy-optimal-solution-in-python-java-c-b-lff5/) |
 | 2270 | Number of Ways to Split Array | Medium | [Python, Java, C#, C++](https://leetcode.com/problems/number-of-ways-to-split-array/solutions/7240848/simplified-problem-optimal-solution-pyth-rkr1/) |
+| 2273 | Find Resultant Array After Removing Anagrams | Easy | [Python, Java, C#, C++, C](https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/solutions/7270447/simple-optimal-solution-plus-bonus-true-ihxcb/) |
 | 2278 | Percentage of Letter in String | Easy | [Python, Java, C#](https://leetcode.com/problems/percentage-of-letter-in-string/solutions/7206437/easy-optimal-solution-in-python-java-c-b-fnno/) |
 | 2279 | Maximum Bags With Full Capacity of Rocks | Medium | [Python, Java, C#](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/solutions/7240433/easy-optimal-solution-in-python-java-c/) |
 | 2309 | Greatest English Letter in Upper and Lower Case | Easy | [Python, Java, C#](https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case/solutions/7206469/optimal-solution-in-python-beats-100-by-1wquy/) |
