@@ -254,6 +254,7 @@
 | 3289 | The Two Sneaky Numbers of Digitville | Easy | [Python](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/solutions/7180593/counting-array-0ms-beats-100-by-atamalu1-enpj/) |
 | 3300 | Minimum Element After Replacement With Digit Sum | Easy | [Python](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/solutions/7206858/optimal-solution-in-python-by-atamalu123-yj14/) |
 | 3340 | Check Balanced String | Easy | [Python](https://leetcode.com/problems/check-balanced-string/solutions/7180294/0ms-beats-100-by-atamalu123-ea4m/) |
+| 3350 | Adjacent Increasing Subarrays Detection II | Medium | [Python, Java, C#, C++, C](https://leetcode.com/problems/adjacent-increasing-subarrays-detection-ii/solutions/7275977/simple-optimal-solution-in-python-java-c-cdr4/) |
 | 3392 | Count Subarrays of Length Three with a Condition | Easy | [Python, Java, C#](https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition/solutions/7206865/easy-optimal-solution-in-python-java-c-b-t4p5/) |
 | 3461 | Check If Digits Are Equal in String After Operations I | Easy | [Python](https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-i/solutions/7226893/using-simulation-by-atamalu123-lx6x/) |
 | 3467 | Transform Array by Parity | Easy | [Python, Java, C#](https://leetcode.com/problems/transform-array-by-parity/solutions/7206883/optimal-on-solution-beats-100-by-atamalu-xhhr/) |
