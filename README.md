@@ -256,6 +256,7 @@
 | 3340 | Check Balanced String | Easy | [Python](https://leetcode.com/problems/check-balanced-string/solutions/7180294/0ms-beats-100-by-atamalu123-ea4m/) |
 | 3350 | Adjacent Increasing Subarrays Detection II | Medium | [Python, Java, C#, C++, C](https://leetcode.com/problems/adjacent-increasing-subarrays-detection-ii/solutions/7275977/simple-optimal-solution-in-python-java-c-cdr4/) |
 | 3392 | Count Subarrays of Length Three with a Condition | Easy | [Python, Java, C#](https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition/solutions/7206865/easy-optimal-solution-in-python-java-c-b-t4p5/) |
+| 3397 | Maximum Number of Distinct Elements After Operations | Medium | [Python, Java, C#, C++](https://leetcode.com/problems/maximum-number-of-distinct-elements-after-operations/solutions/7282902/optimal-solution-with-python-true-1-line-8adl/) |
 | 3461 | Check If Digits Are Equal in String After Operations I | Easy | [Python](https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-i/solutions/7226893/using-simulation-by-atamalu123-lx6x/) |
 | 3467 | Transform Array by Parity | Easy | [Python, Java, C#](https://leetcode.com/problems/transform-array-by-parity/solutions/7206883/optimal-on-solution-beats-100-by-atamalu-xhhr/) |
 | 3487 | Maximum Unique Subarray Sum After Deletion | Easy | [Python, Java, C#, C++, JavaScript, TypeScript](https://leetcode.com/problems/maximum-unique-subarray-sum-after-deletion/solutions/7221354/intuitive-true-one-pass-optimal-solution-beats-100/) |
