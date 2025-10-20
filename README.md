@@ -273,5 +273,5 @@
 | 3674 | Minimum Operations to Equalize Array | Easy | [Python, Java, C#, C, C++, JavaScript, TypeScript](https://leetcode.com/problems/minimum-operations-to-equalize-array/solutions/7240968/optimal-solution-beats-100-python-java-c-ckj7/) |
 | 3682 | Minimum Index Sum of Common Elements | Medium | [Python, Java, C#](https://leetcode.com/problems/minimum-index-sum-of-common-elements/solutions/7194391/simple-hashmap-in-python-java-c-beats-10-m2nr/) |
 | 3683 | Earliest Time to Finish One Task | Easy | [Python, Java, C#](https://leetcode.com/problems/earliest-time-to-finish-one-task/solutions/7206915/optimal-1-liner-in-python-by-atamalu123-kh9i/) |
-
+| 3718 | Smallest Missing Multiple of k | Easy | [Python, Java, C#, C++](https://leetcode.com/problems/smallest-missing-multiple-of-k/solutions/7287369/optimal-solution-on-time-and-space-beats-fekx/) |
 
